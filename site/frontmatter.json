@@ -1,0 +1,16 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/static"
+    },
+    {
+      "path": "[[workspace]]/static/images"
+    },
+    {
+      "path": "[[workspace]]/static/images/blog"
+    }
+  ],
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.framework.id": "hugo"
+}

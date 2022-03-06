@@ -1,9 +1,204 @@
-baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Homepage"
+######################## default configuration ####################
+baseURL = "https://demo.ongazi.com"
+title = "Academia Ongazi | Cursos de Acceso a las Universidades en España"
+theme = "educenter-hugo"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "ongazi" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = [] # desable language from here
+# disableKinds = "sitemap"
 
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/animate/animate.css"
+[[params.plugins.css]]
+link = "plugins/venobox/venobox.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/venobox/venobox.min.js"
+[[params.plugins.js]]
+link = "plugins/filterizr/jquery.filterizr.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+
+
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.webp"
+# Meta data
+description = "Academia Online pre Universitaria para el Acceso a las Universidades de España y Europa. Especialistas en preparación de Pruebas PCE / EBAU."
+author = "Tuataras.LLC"
+# contact info
+address = "1480 NW North River Drive, Miami"
+mobile = "17865193386"
+email = "academia@ongazi.com"
+# contact form action
+contact_form_action = "https://formspree.io/f/mlezgvej" # contact form works with https://formspree.io
+# Google Analitycs
+google_analitycs_id = "" # your id
+# top header
+top_header = true
+
+# Preloader
+[params.preloader]
+enable = false
+preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
+
+# Subscription
+[params.subscription]
+enable = true
+# mailchimp subsciption
+mailchimp_form_action = "https://ongazi.us20.list-manage.com/subscribe/post?u=7a43a10038d86bf9269b2051a&amp;id=7152297209" # replace this url with yours
+mailchimp_form_name = "b_7a43a10038d86bf9269b2051a_7152297209" # replace this code with yours
+
+# google map
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+map_latitude = "25.785833151839082"
+map_longitude = "-80.22011770146483"
+map_marker = "images/marker.png" # marker size 37*55 px
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 7
+  
+############################# social site ########################
+[[params.social]]
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "https://www.facebook.com/Ongazi-100805901350367/"
+
+[[params.social]]
+title = "twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "https://twitter.com/ongazi_com"
+
+[[params.social]]
+title = "instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://www.instagram.com/ongazi"
+
+
+[[params.social]]
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "https://www.linkedin.com/company/ongazi"
+
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+# home = ""
+# copyright
+copyright = "Copyright &copy; 2022 Ongazi its Powerd by [Tuataras LLC](https://tuataras.net)"
+
+
+
+################### English navigation ####################
+
+# main menu
+[[Languages.en.menu.main]]
+name = "Cursos"
+url = "course"
+weight = 1
+hasChildren = true
+  [[Languages.en.menu.main]]
+  parent = "Cursos"
+  name = "Ciencias Experimentales"
+  url = "course/ciencias_experimentales"
+  [[Languages.en.menu.main]]
+  parent = "Cursos"
+  name = "Ciencias Biologicas"
+  url = "course/ciencias_biologicas"
+  [[Languages.en.menu.main]]
+  parent = "Cursos"
+  name = "Ciencias Sociales"
+  url = "course/ciencias_sociales"
+  [[Languages.en.menu.main]]
+  parent = "Cursos"
+  name = "Humanidades"
+  url = "course/humanidades"
+  [[Languages.en.menu.main]]
+  parent = "Cursos"
+  name = "Artes"
+  url = "course/artes"
+
+
+
+[[Languages.en.menu.main]]
+name = "Ongazi"
+weight = 2
+hasChildren = true
+  [[Languages.en.menu.main]]
+  parent = "Ongazi"
+  name = "Sobre Nosotros"
+  url = "about"
+  [[Languages.en.menu.main]]
+  parent = "Ongazi"
+  name = "Nuestro Equipo"
+  url = "teacher"
+
+[[Languages.en.menu.main]]
+name = "Contacto"
+url = "contact"
+weight = 3
+
+[[Languages.en.menu.main]]
+name = "Blog"
+url = "blog"
+weight = 4
+
+[[Languages.en.menu.main]]
+name = "Regístrate"
+url = "https://app.ongazi.com/register"
+weight = 5
+
+[[Languages.en.menu.main]]
+name = "Iniciar Sesión"
+url = "https://app.ongazi.com/"
+weight = 6
+
+# footer menu
+
+[[Languages.en.menu.footer]]
+name = "Politica de Privacidad"
+url = "legal/privacidad"
+
+[[Languages.en.menu.footer]]
+name = "Aviso Legal"
+url = "legal/aviso-legal"
+
+[[Languages.en.menu.footer]]
+name = "Normativas"
+url = "legal/normativas"
+
+[[Languages.en.menu.footer]]
+name = "Condiciones"
+url = "legal/condiciones"
+

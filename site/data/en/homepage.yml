@@ -1,0 +1,140 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/banner-1.webp"
+  slider_item:
+    # slider item loop
+    - title : "Estudia en las Universidades Españolas 🇪🇸"
+      content : ""
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : False
+        label : "Regístrate"
+        link : "https://app.ongazi.com/register"
+
+    # slider item loop
+    - title : "Cursos Online PCE y EBAU Económicos"
+      content : ""
+      animation_in : "up"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Regístrate"
+        link : "https://app.ongazi.com/register"
+
+    # slider item loop
+    # - title : "Somos Expertos en las Pruebas de Acceso Universitarias para 🇪🇸"
+      # content : "Las clases online en directo quedan grabadas para que puedas verlas cuando quieras y cuantas veces quieras."
+      # animation_out : "right"
+      # animation_in : "down"
+      # available animation : left, right, up, down
+      # button:
+      #  enable : False
+      #  label : "Regístrate"
+      #  link : "https://app.ongazi.com/register"
+
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/banner-feature.webp"
+  feature_item:
+    # feature item loop
+    - name : "Clases Online en Directo"
+      icon : "ti-headphone-alt" # icon pack : https://themify.me/themify-icons
+      content : "100% en directo y con múltiples horarios de clases para tu mayor comodidad."
+       
+    # feature item loop
+    - name : "Instructores Preparados"
+      icon : "ti-medall" # icon pack : https://themify.me/themify-icons
+      content : "Con nuestro equipo de profesionales, te garantizamos unas excelentes lecciones y cursos interactivos."
+
+    # feature item loop
+    - name : "Material de Apoyo"
+      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      content : "Las clases online en directo quedan en vídeo y puedes acceder a ellas en cualquier momento."
+
+    # feature item loop
+    - name : "Potentes Herramientas de Aprendizaje"
+      icon : "ti-mouse" # icon pack : https://themify.me/themify-icons
+      content : "Ongazi te proporciona el mejor entorno para aprender a través de internet, interfaz muy amigable y con muchas características exclusivas."
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "Recomendaciones para tus Rutas de Aprendizaje"
+  image : "images/about/about-us.webp"
+  content : "La elección de las materias para preparar el curso de ingreso a la universidad española 🇪🇸, es uno de los puntos claves e importantes en este proceso. Es por esta razón, que creamos para ti “Recomendaciones para tus rutas de aprendizajes”. En este pack te ofrecemos, de acuerdo a nuestra experiencia, destacadas recomendaciones de las asignaturas que mejor se adaptan al perfil académico de la carrera que deseas estudiar en la universidad."
+  button:
+    enable : true
+    label : "Más Información"
+    link : "course"
+
+
+############################# Course ################################
+course:
+  enable : true
+  title : "Cursos"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : "Te preparamos y asesoramos para presentar la PCE y EBAU"
+  title : "Estudia en las Universidades de España 🇪🇸"
+  button:
+    enable : true
+    label : "Regístrate"
+    link : "https://app.ongazi.com/register"
+
+
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "images/backgrounds/success-story.webp"
+  title : "Tus Rutas de Aprendizaje"
+  content : "La elección de las materias para preparar el curso de ingreso a la universidad española 🇪🇸, es uno de los puntos claves e importantes en este proceso. Si estás seguro y tienes claro qué quieres, te ofrecemos en “Tus Rutas de Aprendizaje”, la plena libertad de escoger por ti mismo las asignaturas que consideres que necesitas preparar para tu ingreso a la universidad española que deseas."
+  # video link
+  video_link : "https://www.youtube.com/watch?v=2GF-WZr-VWU"
+
+
+############################# event ################################
+event:
+  enable : true
+  title : "Eventos"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "Turnos"
+      count : "2"
+
+    # funfact item loop
+    - name : "Profesóres"
+      count : "12"
+
+    # funfact item loop
+    - name : "Asignaturas"
+      count : "34"
+
+    # funfact item loop
+    - name : "Días"
+      count : "365"
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : true
+  title : "Blog"
+  # blog item comes from "content/**/blog" folder.

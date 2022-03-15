@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.ongazi.com"
+baseURL = "https://ongazi.com"
 title = "Academia Ongazi | Cursos de Acceso a las Universidades en España"
 theme = "educenter-hugo"
 # post pagination
@@ -56,7 +56,7 @@ email = "academia@ongazi.com"
 # contact form action
 contact_form_action = "https://formspree.io/f/mlezgvej" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # your id
+google_analitycs_id = "UA-153082073-1" # your id
 # top header
 top_header = true
 

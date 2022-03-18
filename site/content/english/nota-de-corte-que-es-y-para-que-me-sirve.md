@@ -1,5 +1,5 @@
 ---
-title: Nota de Corte | qué es y para qué me sirve
+title: "Nota de Corte: qué es y para qué me sirve"
 date: 2022-03-08T14:27:17.000Z
 draft: false
 bg_image: images/backgrounds/page-title.webp
@@ -79,7 +79,7 @@ Si quieres ver las Notas de Corte 2022 de la última convocatoria de los estudio
 
 ---
 
-### 5 tips para enfrentes con éxito el proceso de ingreso a la universidad española
+### 5 tips para que enfrentes con éxito el proceso de ingreso a la universidad española
 
 1.- Examina las Notas de Corte del Grado en el que estás interesado en varias universidades.
 
@@ -95,7 +95,7 @@ Sabemos que el ingreso a las universidades españolas puede parecer un poco conf
 
 Son muchos los requisitos y detalles que debes tomar en cuenta para lograr con éxito tu ingreso a la universidad en España.
 
-**¿Quieres estudiar en España?** [**Contactanos**]({{< ref "https://ongazi.com/contact/" >}} "Contactanos"), Ongazi es tu plataforma de ingreso a la universidad española.
+**¿Quieres estudiar en España?** [**Contactanos**]({{< ref "https://ongazi.com/contact/" >}} "Contáctanos"), Ongazi es tu plataforma de ingreso a la universidad española.
 
 Estamos listos para prepararte y apruebes con éxito las evaluaciones de acceso a la universidad española.
 

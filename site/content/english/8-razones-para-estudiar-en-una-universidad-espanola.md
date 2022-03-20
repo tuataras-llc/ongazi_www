@@ -4,7 +4,7 @@ date: 2022-03-18T14:27:17.000Z
 draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Descubre por qué te será útil conocer estas 8 razones para estudiar en una universidad española.
-image: images/blog/universidad-pontificia-espana.webp
+image: images/blog/post-20.webp
 author: Nerlis Moreau
 categories: [Noticias, Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]

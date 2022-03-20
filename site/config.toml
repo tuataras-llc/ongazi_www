@@ -10,8 +10,8 @@ summaryLength = "10"
 disqusShortname = "ongazi" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
-# disableKinds = "sitemap"
-
+# disableKinds = "RSS"
+enableRobotsTXT = true
 
 ############################# Plugins ##############################
 

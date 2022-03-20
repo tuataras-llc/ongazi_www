@@ -1,5 +1,5 @@
 ---
-title: "Ciencia Biológica"
+title: "Ciencias Biológicas"
 date: 2022-01-03T00:00:00+06:00
 draft: false
 # page title background image

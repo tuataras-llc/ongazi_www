@@ -22,6 +22,11 @@ contact:
     link : "https://ve.linkedin.com/in/niyireesbaptistas"
 
   # contact item loop
+  - name : "Pagina Web"
+    icon : "ti-world" # icon pack : https://themify.me/themify-icons
+    link : "https://linktr.ee/niyiree27"
+
+  # contact item loop
   - name : "Caracas, Venezuela"
     icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
     link : "#"

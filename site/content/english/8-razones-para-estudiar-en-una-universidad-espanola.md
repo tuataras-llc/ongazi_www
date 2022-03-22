@@ -11,7 +11,7 @@ tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universid
 type: post1
 ---
 
-Estudiar en España, puede ser una gran oportunidad y una experiencia que te cambiará la vida.
+Estudiar en España puede ser una gran oportunidad y una experiencia que te cambiará la vida.
 Acá te dejo unas interesantes razones para que escojas España como tu destino para que estudies la universidad.
 
 ---
@@ -59,7 +59,7 @@ Por otra parte, las universidades públicas suelen tener sus matrículas a un pr
 
 ---
 
-### 5.	El Idioma
+### 5.	El idioma
 
 El español es la tercera lengua más hablada en todo el mundo, después del inglés y del chino. Más de 580 millones de personas lo hablan.
 
@@ -77,7 +77,7 @@ Por otro lado, la seguridad, el clima mediterráneo, los buenos índices de salu
 
 ---
 
-### 7.	Seguridad, Modernización y avances de país
+### 7.	Seguridad, modernización y avances de país
 
 España es uno de los países más seguros del mundo. En cualquier ciudad española podrás disfrutar de una vida tranquila.
 

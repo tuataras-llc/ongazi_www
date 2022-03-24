@@ -118,7 +118,7 @@ funfacts:
       count : "2"
 
     # funfact item loop
-    - name : "Profesóres"
+    - name : "Profesores"
       count : "12"
 
     # funfact item loop

@@ -134,7 +134,7 @@ hasChildren = true
   url = "course/ciencias_experimentales"
   [[Languages.en.menu.main]]
   parent = "Cursos"
-  name = "Ciencias Biologicas"
+  name = "Ciencias Biológicas"
   url = "course/ciencias_biologicas"
   [[Languages.en.menu.main]]
   parent = "Cursos"
@@ -187,7 +187,7 @@ weight = 6
 # footer menu
 
 [[Languages.en.menu.footer]]
-name = "Politica de Privacidad"
+name = "Política de Privacidad"
 url = "legal/privacidad"
 
 [[Languages.en.menu.footer]]

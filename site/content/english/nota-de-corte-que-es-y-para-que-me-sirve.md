@@ -27,7 +27,7 @@ Es por esta razón, que comienzan por admitir a los alumnos que hayan alcanzado 
 
 Uno de los criterios fundamentales para que alcances acceder al Grado o carrera que quieres estudiar en la universidad española, es la Nota de Corte.
 
-```Es la nota mínima que se estima que un estudiante deberá obtener para matricularse en esa carrera el siguiente año. Está dada por la nota de la última persona que ha podido acceder a unos estudios determinados.```
+***Es la nota mínima que se estima que un estudiante deberá obtener para matricularse en esa carrera el siguiente año. Está dada por la nota de la última persona que ha podido acceder a unos estudios determinados.***
 
 En otras palabras, es la calificación más baja del último estudiante (de entre los admitidos) que se logra apuntar a un determinado Grado, en una universidad en particular.
 
@@ -59,7 +59,7 @@ Por ejemplo: hay 10 plazas y 12 candidatos.
 
 Ordenamos de mayor a menor sus notas y luego hacemos un corte en el candidato que ocupa la décima plaza.
 
-`Esa última calificación será la Nota de Corte de ese año, para esa carrera, en esa universidad. En este caso sería 9,8.`
+***Esa última calificación será la Nota de Corte de ese año, para esa carrera, en esa universidad. En este caso sería 9,8.***
 
 ![](/images/blog/post-19_1.webp "Fotografía de Ongazi")
 

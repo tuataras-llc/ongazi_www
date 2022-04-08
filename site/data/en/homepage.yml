@@ -4,8 +4,8 @@ slider:
   bg_image : "images/banner/banner-1.webp"
   slider_item:
     # slider item loop
-    - title : "Academia de refuerzo y preparación para las PCE UNEDasiss y EBAU UNED para la admisión en las universidades españolas 🇪🇸"
-      content : ""
+    - title : "Academia online de refuerzo y preparación para las pruebas de ingreso a las universidades de España 🇪🇸"
+      content : "(PCE UNEDAsiss EBAU-EVAU)"
       animation_in : "up"
       animation_out : "right"
       # available animation : left, right, up, down

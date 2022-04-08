@@ -4,7 +4,7 @@ slider:
   bg_image : "images/banner/banner-1.webp"
   slider_item:
     # slider item loop
-    - title : "Academia online de refuerzo y preparación para las pruebas de ingreso a las universidades de España 🇪🇸"
+    - title : "Academia online de refuerzo y preparación para las pruebas de admisión a las universidades de España 🇪🇸"
       content : "(PCE UNEDAsiss EBAU-EVAU)"
       animation_in : "up"
       animation_out : "right"

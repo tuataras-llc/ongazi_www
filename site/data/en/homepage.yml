@@ -4,18 +4,7 @@ slider:
   bg_image : "images/banner/banner-1.webp"
   slider_item:
     # slider item loop
-    - title : "Estudia en las Universidades Españolas 🇪🇸"
-      content : ""
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : False
-        label : "Regístrate"
-        link : "https://app.ongazi.com/register"
-
-    # slider item loop
-    - title : "Cursos Online PCE y EBAU Económicos"
+    - title : "Academia de refuerzo y preparación para las PCE UNEDasiss y EBAU UNED para la admisión en las universidades españolas 🇪🇸"
       content : ""
       animation_in : "up"
       animation_out : "right"
@@ -24,6 +13,17 @@ slider:
         enable : true
         label : "Regístrate"
         link : "https://app.ongazi.com/register"
+
+    # slider item loop
+    # - title : "Especialistas en admisiónes universitarias españolas 🇪🇸"
+    #   content : ""
+    #   animation_in : "up"
+    #   animation_out : "right"
+    #   # available animation : left, right, up, down
+    #   button:
+    #     enable : true
+    #     label : "Regístrate"
+    #     link : "https://app.ongazi.com/register"
 
     # slider item loop
     # - title : "Somos Expertos en las Pruebas de Acceso Universitarias para 🇪🇸"

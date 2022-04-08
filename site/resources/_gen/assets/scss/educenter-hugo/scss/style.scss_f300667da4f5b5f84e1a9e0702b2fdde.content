@@ -457,7 +457,7 @@ textarea.form-control {
   object-fit: cover; }
 
 .top-header {
-  font-size: 12px;
+  font-size: 14px;
   transition: transform .2s ease;
   transform-origin: top;
   font-weight: 600; }

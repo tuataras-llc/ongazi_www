@@ -817,3 +817,7 @@ link:focus,
 .media a:hover h5 {
   color: #00A2FF;
   transition: 0.3s; }
+
+.blog-content a {
+  text-decoration: underline;
+  color: blue; }

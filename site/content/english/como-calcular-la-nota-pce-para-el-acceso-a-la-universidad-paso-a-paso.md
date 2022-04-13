@@ -3,7 +3,7 @@ title: "Cómo calcular la Nota PCE para el acceso a la universidad paso a paso"
 date: 2022-03-28T7:24:17.000Z
 draft: false
 bg_image: images/backgrounds/page-title.webp
-description: En este post aprenderás a calcular la nota PCE y así descubras si puedes ser admitido en la universidad española.
+description: En este post aprenderás a calcular la nota PCE y así descubrir si puedes ser admitido en la universidad española.
 image: /images/blog/como-calcular-la-nota-pce-para-el-acceso-a-la-universidad-paso-a-paso.webp
 author: Nerlis Moreau
 categories: [Noticias, Publicaciones]
@@ -75,13 +75,13 @@ Sin embargo, con este mínimo, desaprovechas un 10% de ese 40%.
 
 #### Cómo calcular la nota de la PCE con acreditación
 
-**NA = (0,2 x NMB + 4) + (0,1 x Ex1) + (0,1 x Ex2) + (0,1 x Ex3) + (0,1 x Ex4)**
+**NA =** (0,2 x NMB + 4) + (0,1 x Ex1) + (0,1 x Ex2) + (0,1 x Ex3) + (0,1 x Ex4)
 
-**NA=** Nota de acceso a la universidad
+**NA =** Nota de acceso a la universidad
 
-**NMB=** Nota Media de Bachillerato.
+**NMB =** Nota Media de Bachillerato.
 
-**Ex=** Nota de cada PCE (siempre que alcances al menos 5 puntos)
+**Ex =** Nota de cada PCE (siempre que alcances al menos 5 puntos)
 
 **Ejemplo:** Optar al Grado de Medicina en la Universidad Complutense de Madrid. 
 
@@ -99,25 +99,25 @@ Por lo tanto, los estudiantes que deseen optar a esta carrera, deberán preparar
 
 Calificaciones:
 
-NMB = 9
+**NMB =** 9
 
-Inglés (Ex1) = 10
+**Inglés (Ex1) =** 10
 
-Matemáticas (Ex2) = 9
+**Matemáticas (Ex2) =** 9
 
-Biología (Ex3) = 9
+**Biología (Ex3) =** 9
 
-Química (Ex4) = 9
+**Química (Ex4) =** 9
 
 Aplicando la fórmula: 
 
-NA= (0,2 x NMB + 4) + (0,1 x Ex1) + (0,1 x Ex2) + (0,1 x Ex3) + (0,1 x Ex4)
+**NA =** (0,2 x NMB + 4) + (0,1 x Ex1) + (0,1 x Ex2) + (0,1 x Ex3) + (0,1 x Ex4)
 
-NA= (0,2 x 9 + 4) + (0,1 x 10) + (0,1 x 9) + (0,1 x 9) + (0,1 x 9)
+**NA =** (0,2 x 9 + 4) + (0,1 x 10) + (0,1 x 9) + (0,1 x 9) + (0,1 x 9)
 
-NA= 5,8 + 1 + 0,9 + 0,9 + 0,9
+**NA =** 5,8 + 1 + 0,9 + 0,9 + 0,9
 
-NA= 9,5
+**NA =** 9,5
 
 9,5 sería el resultado de la nota de acceso a la universidad española, que obtendríamos (sobre 10 puntos) para la Acreditación de la Modalidad de Bachillerato según UNEDasiss.
 
@@ -133,27 +133,27 @@ Entonces, para calcular estos 4 puntos que faltan, la universidad de destino eli
 
 ***Cabe destacar que no se tienen en cuenta las ponderaciones de las asignaturas troncales como: Lengua, Inglés o Historia de España.***
 
-**Nota Acceso= Nota PCE + (0,2 x To1) + (0,2 x To2)**
+**Nota Acceso =** Nota PCE + (0,2 x To1) + (0,2 x To2)
 
-**NA= Nota Acceso**
+**NA =** Nota Acceso
 
-**Nota PCE=** obtenida en la Acreditación de la Modalidad del Bachillerato 
+**Nota PCE =** obtenida en la Acreditación de la Modalidad del Bachillerato 
 
-**To1= Troncal de opción (que más pondera)**
+**To1 =** Troncal de opción (que más pondera)
 
-**To2= Troncal de opción (que más pondera)**
+**To2 =** Troncal de opción (que más pondera)
 
-**Ejemplo: Grado de Medicina en la Universidad Complutense de Madrid, corresponde a la rama de Ciencias.**
+**Ejemplo:** Grado de Medicina en la Universidad Complutense de Madrid, corresponde a la rama de Ciencias.
 
-**NMB = 9**
+**NMB =** 9
 
-**Inglés (Ex1) = 10**
+**Inglés (Ex1) =** 10
 
-**Matemáticas (Ex2) = 9**
+**Matemáticas (Ex2) =** 9
 
-**Biología (Ex3) = 9**
+**Biología (Ex3) =** 9
 
-**Química (Ex4) = 9**
+**Química (Ex4) =** 9
 
 Las troncales de opción que más ponderan son: Biología y Química. Cada una pondera 0,2 puntos.
 
@@ -161,24 +161,24 @@ Si obtienes un 9 en Biología y un 9 en Química, la Complutense determina que t
 
 A esos 3,6 puntos le sumas la nota obtenida en la Acreditación de la Modalidad del Bachillerato PCE según UNEDasiss, que calculamos anteriormente=
 
-**NA= (0,2 x NMB + 4) + (0,1 x Ex1) + (0,1 x Ex2) + (0,1 x Ex3) + (0,1 x Ex4)**
+**NA =** (0,2 x NMB + 4) + (0,1 x Ex1) + (0,1 x Ex2) + (0,1 x Ex3) + (0,1 x Ex4)
 
-NA= (0,2 x 9 + 4) + (0,1 x 10) + (0,1 x 9) + (0,1 x 9) + (0,1 x 9)
+**NA =** (0,2 x 9 + 4) + (0,1 x 10) + (0,1 x 9) + (0,1 x 9) + (0,1 x 9)
 
-NA= 5,8 + 1 + 0,9 + 0,9 + 0,9
+**NA =** 5,8 + 1 + 0,9 + 0,9 + 0,9
 
-NA= 9,5
+**NA =** 9,5
 
 #### Vamos a ver la calificación con la fórmula final.
 
-**Nota Final Acceso= Nota PCE + (0,2 x To1) + (0,2 x To2)**
+**Nota Final Acceso =** Nota PCE + (0,2 x To1) + (0,2 x To2)
 
-NFA= 9,5 + (0,2 X 9) + (0,2 X 9)
+**NFA =** 9,5 + (0,2 X 9) + (0,2 X 9)
 
-NFA= 9,5 + 1,8 + 1,8
+**NFA =** 9,5 + 1,8 + 1,8
 
-NFA= 13,1 
+**NFA =** 13,1 
 
-***13,1 es la Nota final de acceso Grado de Medicina en la Universidad Complutense de Madrid***
+**13,1 es la Nota final de acceso Grado de Medicina en la Universidad Complutense de Madrid**
 
 Si tienes dudas con respecto a cómo calcular la nota PCE para el acceso a la universidad española contáctanos que con gusto te asesoraremos.

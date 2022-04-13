@@ -13,7 +13,7 @@ type: post1
 
 Para estudiar en España siendo extranjero, lo primero que debes tener vigente es tu pasaporte de país de origen para luego cumplir con los requisitos impuestos por el gobierno español. 
 
-Asimismo, estos **[10 pasos para ingresar a una universidad española](https://ongazi.com/10-pasos-ingresar-a-una-universidad-espanola/)**, te ofrecerán toda la info que necesitas saber para irte rumbo a la universidad española.
+Asimismo, estos [10 pasos para ingresar a una universidad española](https://ongazi.com/10-pasos-ingresar-a-una-universidad-espanola/), te ofrecerán toda la info que necesitas saber para irte rumbo a la universidad española.
 
 ---
 
@@ -29,7 +29,7 @@ Cabe destacar que, no todas las universidades las exigen como uno de los requisi
 
 Debes contactar con la universidad destino vía online y las autoridades te informan cuáles y cuántas asignaturas necesitas validar.  
 
-Asimismo, te remitirán a la **[UNEDassis para que acredites tu acceso](https://unedasiss.uned.es/simuladorSolicitud)** y presentes una de las pruebas de admisión, ya sea PCE o EBAU.
+Asimismo, te remitirán a la [UNEDassis para que acredites tu acceso](https://unedasiss.uned.es/simuladorSolicitud) y presentes una de las pruebas de admisión, ya sea PCE o EBAU.
 
 ---
 

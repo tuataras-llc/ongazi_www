@@ -2,4 +2,3 @@ User-agent: *
 Disallow: /tags/
 Disallow: /categories/
 Disallow: /author/
-Disallow: /teacher/

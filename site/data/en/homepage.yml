@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Academia online de preparación y nivelación para las pruebas de admisión a las universidades españolas 🇪🇸"
-      content : "(EBAU-EVAU UNEDAsiss)"
+      content : "(PCE-EBAU UNEDAsiss)"
       animation_in : "up"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -66,9 +66,18 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "Recomendaciones para tus Rutas de Aprendizaje"
+  title : "¿Qué ofrecemos?"
   image : "images/about/about-us.webp"
-  content : "La elección de las materias para preparar el curso de ingreso a la universidad española 🇪🇸, es uno de los puntos claves e importantes en este proceso. Es por esta razón, que creamos para ti “Recomendaciones para tus rutas de aprendizajes”. En este pack te ofrecemos, de acuerdo a nuestra experiencia, destacadas recomendaciones de las asignaturas que mejor se adaptan al perfil académico de la carrera que deseas estudiar en la universidad."
+  content : "• Una solución para tu proceso de ingreso en las universidades de España. 🇪🇸 
+
+
+• Facilitamos cursos de preparación, refuerzo y nivelación a los estudiantes internacionales para los exámenes PCE UNEDasiss y EBAU UNED
+
+
+• Cursos que se adapten a tus necesidades académicas, desde casa o cualquier lugar de tu elección y en cualquier dispositivo, pero manteniendo la calidad de una escuela tradicional.
+
+
+• Orientación y asesorarías personalizadas sobre el sistema universitario español y trámites que requiere el proceso de admisión a las universidades españolas."
   button:
     enable : true
     label : "Más Información"
@@ -84,8 +93,8 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Te preparamos y asesoramos para presentar la PCE y EBAU"
-  title : "Estudia en las Universidades de España 🇪🇸"
+  subtitle : "Reforzar las asignaturas de bachillerato en el curso PCE-EBAU, mejorará tus posibilidades de admisión en las universidades de España. 🇪🇸"
+  title : "Estudia, Logra, Vive"
   button:
     enable : true
     label : "Regístrate"
@@ -104,7 +113,7 @@ success_story:
 
 ############################# event ################################
 event:
-  enable : true
+  enable : false
   title : "Eventos"
   # event item comes from "content/**/event" folder.
 

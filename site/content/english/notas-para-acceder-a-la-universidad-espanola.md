@@ -4,7 +4,7 @@ date: 2022-05-15T7:24:17.000Z
 draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Aprende tú mismo a calcular las diferentes notas que debes obtener para acceder a la universidad española.
-image: /images/blog/notas-para-acceder-a-la-universidad-española.webp
+image: /images/blog/notas-para-acceder-a-la-universidad-espanola.webp
 author: Nerlis Moreau
 categories: [Noticias, Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]

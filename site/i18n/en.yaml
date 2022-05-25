@@ -98,7 +98,7 @@
   translation: WhatsApp
 
 - id: call1
-  translation: WhatsApp
+  translation: /
 
 - id: email
   translation: Correo

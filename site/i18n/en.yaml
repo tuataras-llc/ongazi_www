@@ -95,10 +95,10 @@
   translation: Noticias
 
 - id: call
-  translation: WA
+  translation: WhatsApp
 
 - id: call1
-  translation: WA
+  translation: WhatsApp
 
 - id: email
   translation: Correo

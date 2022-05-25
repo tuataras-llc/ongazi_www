@@ -21,6 +21,7 @@
       <div class="col-lg-5 content">
         {{ .Content }}
         <strong>{{ i18n "call" |  }} : </strong><a href="https://wa.me/{{ site.Params.mobile }}" class="text-color h5 d-block">{{ site.Params.mobile | markdownify }}</a>
+        <strong>{{ i18n "call1" |  }} : </strong><a href="https://wa.me/{{ site.Params.mobile1 }}" class="text-color h5 d-block">{{ site.Params.mobile1 | markdownify }}</a>
         <strong>{{ i18n "email" |  }} : </strong><a href="mailto:{{ site.Params.email }}" class="mb-5 text-color h5 d-block">{{ site.Params.email }}</a>
         <strong>{{ i18n "location" |  }} : </strong><p>{{ site.Params.address | markdownify }}</p>
       </div>

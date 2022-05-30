@@ -1,3 +1,4 @@
+
 - id: read_more
   translation: Leer Más
 
@@ -95,10 +96,10 @@
   translation: Noticias
 
 - id: call
-  translation: USA
+  translation: Telf
 
 - id: call1
-  translation: Vzla
+  translation: Telf
 
 - id: email
   translation: Correo

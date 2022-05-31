@@ -1,6 +1,6 @@
 ---
 title: "3 consejos para aprender cualquier cosa más rápido por el mejor brain coach, Jim Kiwk"
-date: 2022-05-15T7:24:17.000Z
+date: 2022-05-30T7:24:17.000Z
 draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Potencia tu cerebro y aprende más rápido con estos consejos del experto mundial en lectura rápida y rendimiento cerebral Jim Kwik.

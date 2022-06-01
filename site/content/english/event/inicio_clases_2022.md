@@ -4,7 +4,7 @@ title: "Inicio de Actividades Cursos PCE | EBAU - 2022"
 # Schedule page publish date
 publishDate: "2022-04-01T00:00:00Z"
 # event date
-date: "2022-09-01T08:00:17"
+date: "2022-10-01T08:00:17"
 # post save as draft
 draft: false
 # page title background image
@@ -16,7 +16,7 @@ image: "images/events/inicio.webp"
 # location
 location: "Plataforma Ongazi"
 # entry fee
-fee: "Desde: $699"
+fee: "Desde: $198"
 # apply url
 apply_url : "https://app.ongazi.com/register"
 # event speaker

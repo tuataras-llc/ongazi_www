@@ -1,22 +1,22 @@
 ---
 sitemap_ignore: true
-title: "Apertura de Inscripciones Cursos PCE | EBAU - 2022"
+title: "Apertura de Preinscripciones Cursos PCE | EBAU - 2022"
 # Schedule page publish date
-publishDate: "2022-08-01T00:00:00Z"
+publishDate: "2022-06-01T00:00:00Z"
 # event date
-date: "2022-08-01T08:00:17"
+date: "2022-06-01T08:00:17"
 # post save as draft
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.webp"
 # meta description
-description : "Apertura de Inscripciones Cursos PCE | EBAU para Curso 2022"
+description : "Apertura de Preinscripciones Cursos PCE | EBAU para Curso 2022"
 # Event image
 image: "images/events/apertura.webp"
 # location
 location: "Plataforma Ongazi"
 # entry fee
-fee: "Desde: $198/Mes"
+fee: "Reserva de Cupo: $20"
 # apply url
 apply_url : "https://app.ongazi.com/register"
 # event speaker

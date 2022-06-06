@@ -9,7 +9,7 @@ description : "Las universidades de España vs USA ¿Por qué los estudiantes in
 # post thumbnail
 image: "images/blog/post-2.webp"
 # post author
-author: "Nerlis Moreau"
+author: "Editorial Ongazi"
 # taxonomy
 categories: ["Publicaciones"]
 tags: ["Estudiar en España", "PCE", "Pruebas de Competencias Específicas", "Universidad en España", "Universidad Española"]

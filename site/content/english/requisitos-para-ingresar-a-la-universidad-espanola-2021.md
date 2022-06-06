@@ -5,7 +5,7 @@ draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Ongazi te explica los requisitos para ingresar a la universidad española que son necesarios para que alcances tu objetivo.
 image: images/blog/post-7.webp
-author: Nerlis Moreau
+author: Editorial Ongazi
 categories: [Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1

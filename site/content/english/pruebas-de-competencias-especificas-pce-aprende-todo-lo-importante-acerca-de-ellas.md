@@ -5,7 +5,7 @@ draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Uno de los requerimientos que tienes que cumplir como extranjero si planeas estudiar en España, es presentar las Pruebas de Competencias Específicas (PCE)
 image: images/blog/post-4.webp
-author: Nerlis Moreau
+author: Editorial Ongazi
 categories: [Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1

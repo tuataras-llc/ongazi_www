@@ -5,7 +5,7 @@ draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Entérate cuáles son las diferencias entre PCE y EBAU, qué son los exámenes de selectividad y qué debes preparar para ingresar a las universidades españolas.
 image: images/blog/post-8.webp
-author: Nerlis Moreau
+author: Editorial Ongazi
 categories: [Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1

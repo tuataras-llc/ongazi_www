@@ -5,7 +5,7 @@ draft: false
 bg_image: images/backgrounds/page-title.webp
 description: La Nota de Corte es la nota mínima que se estima que un estudiante deberá obtener para matricularse en esa carrera el siguiente año.
 image: images/blog/post-19.webp
-author: Nerlis Moreau
+author: Editorial Ongazi
 categories: [Noticias, Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1

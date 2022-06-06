@@ -5,7 +5,7 @@ draft: false
 bg_image: images/backgrounds/page-title.webp
 description: En este post aprenderás a calcular la nota PCE y así descubrir si puedes ser admitido en la universidad española.
 image: /images/blog/como-calcular-la-nota-pce-para-el-acceso-a-la-universidad-paso-a-paso.webp
-author: Nerlis Moreau
+author: Editorial Ongazi
 categories: [Noticias, Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1

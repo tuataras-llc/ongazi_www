@@ -5,7 +5,7 @@ draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Aprende a elegir cuáles son las materias más fáciles de la UNED para presentar las PCE, en este post te permitirá obtener
 image: images/blog/post-18.webp
-author: Nerlis Moreau
+author: Editorial Ongazi
 categories: [Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1

@@ -5,7 +5,7 @@ draft: false
 bg_image: images/backgrounds/page-title.webp
 description: ¿Interesado en estudiar Ingeniería informática en España? Descubre qué hace un ingeniero informático y en qué universidades puedes hacerlo.
 image: images/blog/post-15.webp
-author: Nerlis Moreau
+author: Editorial Ongazi
 categories: [Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1

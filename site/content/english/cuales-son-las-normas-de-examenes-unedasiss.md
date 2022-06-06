@@ -5,7 +5,7 @@ draft: false
 bg_image: images/backgrounds/page-title.webp
 description: En este post te vamos a especificar cuáles son las normas de exámenes UNEDasiss que necesitas conocer para presentar las PCE o EBAU.
 image: images/blog/post-13.webp
-author: Nerlis Moreau
+author: Editorial Ongazi
 categories: [Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1

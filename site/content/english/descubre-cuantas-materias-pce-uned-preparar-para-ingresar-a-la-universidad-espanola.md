@@ -5,7 +5,7 @@ draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Entérate cuántas materias PCE UNED debes presentar y cuáles Comunidades aplican a este requisito para ingresar a la universidad española.
 image: images/blog/post-10.webp
-author: Nerlis Moreau
+author: Editorial Ongazi
 categories: [Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1

@@ -5,7 +5,7 @@ draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Potencia tu cerebro y aprende más rápido con estos consejos del experto mundial en lectura rápida y rendimiento cerebral Jim Kwik.
 image: /images/blog/3-consejos-para-aprender-cualquier-cosa-mas-rapido-por-el-mejor-brain-coach-Jim-Kiwk.webp
-author: Nerlis Moreau
+author: Editorial Ongazi
 categories: [Noticias, Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1

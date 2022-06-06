@@ -5,7 +5,7 @@ draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Descubre por qué te será útil conocer estas 8 razones para estudiar en una universidad española.
 image: images/blog/post-20.webp
-author: Nerlis Moreau
+author: Editorial Ongazi
 categories: [Noticias, Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1

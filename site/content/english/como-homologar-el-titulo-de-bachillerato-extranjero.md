@@ -5,7 +5,7 @@ draft: false
 bg_image: images/backgrounds/page-title.webp
 description: En este post sabrás cómo homologar el título de bachillerato extranjero.Si estás decidido a realizar tus estudios universitarios en una universidad española
 image: images/blog/post-3.webp
-author: Nerlis Moreau
+author: Editorial Ongazi
 categories: [Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1

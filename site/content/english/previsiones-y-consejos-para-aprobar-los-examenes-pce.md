@@ -5,7 +5,7 @@ draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Este post te explicará las previsiones y algunos consejos que, si los aplicas, las posibilidades de aprobar los exámenes PCE son altas.
 image: images/blog/post-6.webp
-author: Nerlis Moreau
+author: Editorial Ongazi
 categories: [Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1

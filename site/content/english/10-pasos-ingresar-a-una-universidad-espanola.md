@@ -5,7 +5,7 @@ draft: false
 bg_image: images/backgrounds/page-title.webp
 description: ¿Planeas hacer tus estudios superiores en España? Estos 10 pasos para ingresar a una universidad española, te ofrecerán toda la info que necesitas saber.
 image: images/blog/post-1.webp
-author: Nerlis Moreau
+author: Editorial Ongazi
 categories: [Noticias, Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1

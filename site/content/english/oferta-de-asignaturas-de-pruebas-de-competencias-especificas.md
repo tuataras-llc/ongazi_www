@@ -5,7 +5,7 @@ draft: false
 bg_image: images/backgrounds/page-title.webp
 description: Descubre la oferta de asignaturas de Pruebas de Competencias Específicas que ofrece UNEDasiss y elije las que favorezcan tu preparación.
 image: images/blog/post-14.webp
-author: Nerlis Moreau
+author: Editorial Ongazi
 categories: [Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1

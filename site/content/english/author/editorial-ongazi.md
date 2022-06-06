@@ -21,4 +21,4 @@ social:
     link : "https://wa.me/584142312781"
 ---
 
-Nerlis se encarga de ofrecer este espacio informativo con el propósito de comunicarte, de manera precisa y amena, toda la información destacada acerca de las universidades en España, procesos de acceso a la universidad, exámenes y recomendaciones, que faciliten tu proceso de preparación.
+Ongazi se encarga de ofrecer este espacio informativo con el propósito de comunicarte, de manera precisa y amena, toda la información destacada acerca de las universidades en España, procesos de acceso a la universidad, exámenes y recomendaciones, que faciliten tu proceso de preparación.

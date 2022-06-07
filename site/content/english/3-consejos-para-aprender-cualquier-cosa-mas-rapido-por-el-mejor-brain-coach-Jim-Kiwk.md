@@ -33,18 +33,18 @@ Y en Ongazi queremos compartir algunos de los mejores consejos de Kwik, para que
 
 ---
 
-### 1) Mata tus ANTs: “automatic negative thoughts” (Mentalidad)
+### 1) Mata tus ANTs: “Automatic Negative Thoughts” (Mentalidad)
 
-Kwik dice que, es importante combatir los ANTs (Automatic Negative Thoughts), que se traduce como "Pensamientos negativos automaticos", son pensamientos que te dicen que no puedes aprender algo nuevo.
+Kwik dice que, es importante combatir los ANTs (Automatic Negative Thoughts), que se traduce como "Pensamientos Negativos Automáticos", son pensamientos que te dicen que no puedes aprender algo nuevo.
 
 “Si regularmente te dices a ti mismo que no puedes hacer algo, o que eres demasiado viejo para hacer algo, o que no tienes la inteligencia para hacer algo, no lo harás”, escribe Kwik en su libro "Sin límites".
 
 Para eliminar las ANTs, Kwik sugiere responderles. Por ejemplo, si notas un pensamiento que te dice que no puede aprender a programar, háblate a ti mismo inmediatamente: "Puedo aprender eso".
 
-##### “No reduzcas lo que es posible para que se ajuste a tu mente, expande tu mente para que se ajuste a lo que es posible”, dice Kwik.
+“No reduzcas lo que es posible para que se ajuste a tu mente, expande tu mente para que se ajuste a lo que es posible”, dice Kwik.
 
 
-*Con el tiempo, esos pensamientos negativos comenzarán a desaparecer y, por lo tanto, eliminarán una barrera para el aprendizaje.*
+Con el tiempo, esos pensamientos negativos comenzarán a desaparecer y, por lo tanto, eliminarán una barrera para el aprendizaje.
 
 ---
 
@@ -82,7 +82,7 @@ Aquí está la lista de los 10 principales alimentos para el cerebro y por qué 
 
 Para aprender, debes leer, dice Kwik. Él sugiere establecer una meta de lectura diaria, incluso si es solo por 10 minutos para comenzar.
 
-##### “Hay poder en la lectura y estos beneficios se acumulan con el tiempo. La clave es la consistencia”, escribe Kwik en “Limitless”.
+“Hay poder en la lectura y estos beneficios se acumulan con el tiempo. La clave es la consistencia”, escribe Kwik en “Limitless”.
 
 Kwik dice que elijas un libro que siempre haya querido leer, guardes cualquier distracción y configures un temporizador.
 

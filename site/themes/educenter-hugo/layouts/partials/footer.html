@@ -145,7 +145,6 @@
 		}
 	})(jQuery);
 </script>
-
 <!-- cookie style -->
 <style>
 .cookie-box {
@@ -166,3 +165,16 @@
 }
 </style>
 {{ end }}
+
+<!-- Crisp & Facebook pixels events -->
+<script type="text/javascript">
+  $crisp.push(["on", "message:sent", function(event){ 
+     fbq("trackCustom", "Crisp Message Sent");
+  }]);
+</script>
+<script type="text/javascript">
+  $crisp.push(["on", "user:email:changed", function(event){
+     fbq("trackCustom", "Crisp Email Added");
+  }]);
+</script>
+<!-- Crisp & Facebook pixels events -->

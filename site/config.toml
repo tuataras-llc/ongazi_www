@@ -57,7 +57,9 @@ email = "academia@ongazi.com"
 # contact form action
 contact_form_action = "https://formspree.io/f/mlezgvej" # contact form works with https://formspree.io
 # Google Analitycs
+# DESDE JUNIO 2022 GOOGLE ANALITYCS ES ADMINISTRADO DESDE LA CONSOLA DE GTM
 google_analitycs_id = "UA-153082073-1" # your id
+google_tag_manager_id = "GTM-P53LSCD" # your GTM id
 # top header
 top_header = true
 

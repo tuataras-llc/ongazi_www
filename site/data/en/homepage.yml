@@ -90,7 +90,7 @@ course:
   title : "Cursos"
   # course item comes from "content/**/course" folder.
 
-########################## Call to action ############################
+########################## Call to action 1 ############################
 cta:
   enable : true
   subtitle : "Reforzar las asignaturas de bachillerato en el curso PCE-EBAU, mejorará tus posibilidades de admisión en las universidades de España. 🇪🇸"
@@ -117,7 +117,17 @@ event:
   title : "Eventos"
   # event item comes from "content/**/event" folder.
 
-  
+
+########################## Call to action 2 ############################
+cta2:
+  enable : true
+  subtitle : "Reforzar las asignaturas de bachillerato en el curso PCE-EBAU, mejorará tus posibilidades de admisión en las universidades de España. 🇪🇸"
+  title : "Estudia, Logra, Vive"
+  button:
+    enable : true
+    label : "Regístrate"
+    link : "https://app.ongazi.com/register"
+
 ########################### funfacts ############################
 funfacts:
   enable : true

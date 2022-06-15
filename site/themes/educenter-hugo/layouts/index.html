@@ -127,7 +127,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h3 class="text-white font-secondary mb-0">{{ .subtitle | markdownify }}</h3>
+        <h3 class="text-white font-secondary mb-4">{{ .subtitle | markdownify }}</h3>
         <h2 class="section-title text-white">{{ .title | markdownify }}</h2>
         {{ if .button.enable }}
         {{ with .button }}
@@ -189,8 +189,8 @@
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h3 class="text-white font-secondary mb-0">{{ .subtitle | markdownify }}</h3>
-        <h2 class="section-title text-white">{{ .title | markdownify }}</h2>
+        <h2 class="section-title text-white">{{ .subtitle | markdownify }}</h2>
+        <h3 class="text-white font-secondary mb-4">{{ .title | markdownify }}</h3>
         {{ if .button.enable }}
         {{ with .button }}
         <a href="{{ .link | absLangURL }}" class="btn btn-light">{{ .label }}</a>

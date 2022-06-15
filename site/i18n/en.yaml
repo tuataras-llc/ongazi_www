@@ -12,7 +12,10 @@
   translation: Contacto
 
 - id: subscribe_newsletter
-  translation: Suscríbete a Nuestras Noticias
+  translation: Suscríbete a nuestro boletín informativo
+
+- id: subscribe_newsletter_message
+  translation: Prometemos solo mandarte noticias importantes, información y promociones de nuestros cursos.
 
 - id: subscribe
   translation: Subscribete

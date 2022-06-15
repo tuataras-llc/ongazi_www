@@ -7,7 +7,8 @@
     <div class="container">
       <div class="row">
         <div class="col-md-9 ml-auto bg-primary py-5 newsletter-block">
-          <h3 class="text-white mb-4">{{ i18n "subscribe_newsletter" }}</h3>
+          <h3 class="text-white mb-2">{{ i18n "subscribe_newsletter" }}</h3>
+          <p class="text-white">{{ i18n "subscribe_newsletter_message" }}</p>
           <form action="{{ .mailchimp_form_action }}" method="post" name="mc-embedded-subscribe-form" target="_blank">
             <div class="input-wrapper">
               <input type="email" class="form-control border-0" id="newsletter" name="newsletter" placeholder="{{ i18n "enter_email" }}">
@@ -90,6 +91,9 @@
 </footer>
 <!-- /footer -->
 
+<!-- Whatsapp chat Icon -->
+<div id="whatsapp-btn"></div>
+
 {{ "<!-- Google Map API -->" | safeHTML }}
 {{ with site.Params.map.gmap_api }}
 <script src="{{ . | safeURL }}"></script>
@@ -144,4 +148,24 @@
   display: none;
 }
 </style>
+
+<script>
+  $(function () {
+    $('#whatsapp-btn').floatingWhatsApp({
+        phone: '+584142312781',
+        popupMessage: '¡Hola! ¿En qué te puedo ayudar? 😉',
+        message: "Hola, deseo saber más información...",
+        showPopup: true,
+        autoOpenTimeout: 10000,
+        showOnIE: false,
+        headerTitle: '¡Hablemos por WhatsApp!',
+        headerColor: '#25D366',
+        backgroundColor: '#25D366',
+        size: '60px',
+        position: 'right',
+        right: '25px',
+        // buttonImage: '<img src="whatsapp.svg" />',
+    });
+});
+</script>
 {{ end }}

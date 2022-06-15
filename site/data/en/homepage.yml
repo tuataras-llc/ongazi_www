@@ -121,12 +121,12 @@ event:
 ########################## Call to action 2 ############################
 cta2:
   enable : true
-  subtitle : "Reforzar las asignaturas de bachillerato en el curso PCE-EBAU, mejorará tus posibilidades de admisión en las universidades de España. 🇪🇸"
-  title : "Estudia, Logra, Vive"
+  subtitle : "¿Tienes dudas acerca del proceso?"
+  title : "Una persona del equipo estará encantada de ayudarte"
   button:
     enable : true
-    label : "Regístrate"
-    link : "https://app.ongazi.com/register"
+    label : "Quiero hablar con un agente"
+    link : "https://wa.me/584142312781"
 
 ########################### funfacts ############################
 funfacts:

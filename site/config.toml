@@ -26,6 +26,8 @@ link = "plugins/animate/animate.css"
 link = "plugins/venobox/venobox.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/floating-wpp/floating-wpp.min.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -40,7 +42,10 @@ link = "plugins/venobox/venobox.min.js"
 link = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
-
+[[params.plugins.js]]
+link = "plugins/floating-wpp/floating-wpp.js"
+# [[params.plugins.js]]
+# link = "plugins/floating-wpp/floating-wpp-conf.js"
 
 
 #################### default parameters ################################

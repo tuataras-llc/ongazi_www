@@ -53,7 +53,6 @@
             }
             else {
                 $popup.removeClass('active');
-                closePopup();
                 // sendWhatsappMessage();
             }
         });
@@ -145,7 +144,6 @@
                 left: 'auto',
                 right: settings.right
             });
-            console.log('right: settings.right', settings.right);
             $popup.css('right', '0');
         }
         //#endregion

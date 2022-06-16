@@ -109,28 +109,19 @@
   cursor: pointer;
 }
 
-
-/* Smartphones (portrait and landscape) ----------- */
 @media only screen 
-and (min-device-width : 320px) 
 and (max-device-width : 560px) {
-/* Styles */
   .floating-wpp {
     bottom: 80px;
     right: 15px;
     width: 55px;
     height: 55px;
   }
-
   .floating-wpp .floating-wpp-button {
     width: 55px;
     height: 55px;
   }
-
   .floating-wpp:hover {
     bottom: 80px;
   }
-
-
-  
 }

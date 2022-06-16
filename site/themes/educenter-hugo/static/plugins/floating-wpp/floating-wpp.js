@@ -141,15 +141,15 @@
 
         if (settings.position === 'right') {
             if (!isMobile) {
-                this.css({
-                    left: 'auto',
-                    // right: settings.right
-                });
+                // this.css({
+                //     // left: 'auto',
+                //     // right: settings.right
+                // });
             } else {
-                this.css({
-                    left: 'auto',
-                    // right: '10px'
-                });
+                // this.css({
+                //     // left: 'auto',
+                //     // right: '10px'
+                // });
             }
             $popup.css('right', '0');
         }

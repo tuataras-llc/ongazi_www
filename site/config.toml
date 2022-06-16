@@ -160,35 +160,36 @@ hasChildren = true
 
 
 [[Languages.en.menu.main]]
-name = "Ongazi"
+name = "La Academia"
 weight = 2
 hasChildren = true
   [[Languages.en.menu.main]]
-  parent = "Ongazi"
+  parent = "La Academia"
   name = "Sobre Nosotros"
   url = "about"
   [[Languages.en.menu.main]]
-  parent = "Ongazi"
+  parent = "La Academia"
   name = "Nuestro Equipo"
   url = "teacher"
 
-[[Languages.en.menu.main]]
-name = "Contacto"
-url = "contact"
-weight = 3
 
 [[Languages.en.menu.main]]
 name = "Blog"
 url = "blog"
+weight = 3
+
+[[Languages.en.menu.main]]
+name = "Contacto"
+url = "contact"
 weight = 4
 
-[[Languages.en.menu.main]]
-name = "Regístrate"
-url = "https://app.ongazi.com/register"
-weight = 5
+# [[Languages.en.menu.main]]
+# name = "Regístrate"
+# url = "https://app.ongazi.com/register"
+# weight = 5
 
 [[Languages.en.menu.main]]
-name = "Iniciar Sesión"
+name = "Campus Virtual"
 url = "https://app.ongazi.com/"
 weight = 6
 

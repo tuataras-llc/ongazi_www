@@ -38,8 +38,8 @@
         $button.addClass('floating-wpp-button')
             .append($(settings.buttonImage))
             .css({
-                'width': settings.size,
-                'height': settings.size,
+                // 'width': settings.size,
+                // 'height': settings.size,
                 'background-color': settings.backgroundColor
             });
 
@@ -140,10 +140,17 @@
         }
 
         if (settings.position === 'right') {
-            this.css({
-                left: 'auto',
-                right: settings.right
-            });
+            if (!isMobile) {
+                this.css({
+                    left: 'auto',
+                    // right: settings.right
+                });
+            } else {
+                this.css({
+                    left: 'auto',
+                    // right: '10px'
+                });
+            }
             $popup.css('right', '0');
         }
         //#endregion

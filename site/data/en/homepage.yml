@@ -11,7 +11,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Regístrate"
+        label : "Campus Virtual"
         link : "https://app.ongazi.com/register"
 
     # slider item loop

@@ -1,10 +1,12 @@
 .floating-wpp {
   position: fixed;
   bottom: 100px;
-  left: 50px;
+  right: 25px;
   font-size: 14px;
   transition: bottom 0.2s;
   z-index: 2;
+  width: 60px;
+  height: 60px;
 }
 .floating-wpp .floating-wpp-button {
   position: relative;
@@ -13,6 +15,8 @@
   transition: box-shadow 0.2s;
   cursor: pointer;
   overflow: hidden;
+  width: 60px;
+  height: 60px;
 }
 .floating-wpp .floating-wpp-button img,
 .floating-wpp .floating-wpp-button svg {
@@ -103,4 +107,30 @@
   margin-left: 12px;
   font-size: 0;
   cursor: pointer;
+}
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 560px) {
+/* Styles */
+  .floating-wpp {
+    bottom: 80px;
+    right: 15px;
+    width: 55px;
+    height: 55px;
+  }
+
+  .floating-wpp .floating-wpp-button {
+    width: 55px;
+    height: 55px;
+  }
+
+  .floating-wpp:hover {
+    bottom: 80px;
+  }
+
+
+  
 }

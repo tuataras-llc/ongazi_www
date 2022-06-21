@@ -1,6 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://ongazi.com"
-title = "Academia Ongazi | Cursos de Acceso a las Universidades en España"
+title = "Academia Ongazi | Academia de preparación para Universidades Españolas"
+description = "Academia 100% en línea para la preparación de la Selectividad PCE UNEDasiss. Cursos online para el acceso a universidades españolas."
 theme = "educenter-hugo"
 # post pagination
 paginate = "6"

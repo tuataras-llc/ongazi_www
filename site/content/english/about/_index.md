@@ -13,8 +13,6 @@ description : "Creemos en el poder que tiene la educación por Internet y sabemo
 
 Una academia creada con la meta de hacer todo lo posible para que estudiantes internacionales de bachillerato, se preparen y nivelen sus conocimientos académicos en casa, con un estándar igual que el ofrecido por las escuelas tradicionales, para superar las PCE-EBAU UNEDasiss, y sean admitidos en las universidades en España.
 
-Una academia dedicada a orientar y preparar a estudiantes internacionales de bachillerato para superar las evaluaciones de ingreso PCE -EBAU UNEDasiss, y sean admitidos en las universidades en España.
-
 En Ongazi contamos con un equipo especializado y multidisciplinario de profesionales apasionados y comprometidos, que creemos en el poder de los procesos de aprendizaje-enseñanza online y hacemos el mejor uso de todo lo que Internet tiene para ofrecer, y así lograr este objetivo.
 
 Tenemos más de 5 años de trayectoria y experiencia en diseño e implementación de estos cursos utilizando metodologías y herramientas didácticas interactivas, modernas y fáciles de usar.

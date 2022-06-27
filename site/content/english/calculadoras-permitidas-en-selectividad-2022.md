@@ -81,19 +81,19 @@ Se trata de las calculadoras científicas más populares entre los estudiantes q
 
 Son calculadoras intuitivas, sencillas y muy eficaces para los alumnos, que les ayuda a la resolución rápida de los ejercicios.
 
-[Casio FX-82SPXII Iberia](https://www.amazon.es/dp/B01G5HYQJC?tag=amz-selectividad-21&linkCode=ogi&th=1&psc=1)
+<a href="https://www.amazon.es/dp/B01G5HYQJC?tag=amz-selectividad-21&linkCode=ogi&th=1&psc=1" target="_blank">Casio FX-82SPXII Iberia</a>
 
 ![calduladora Casio FX-82SPXII Iberia](/images/blog/Casio-FX-82SPXII-Iberia.webp)
 
-[Casio FX-82ES PLUS-2](https://www.amazon.es/dp/B082YDGP7H?tag=amz-selectividad-21&linkCode=ogi&th=1&psc=1)
+<a href="https://www.amazon.es/dp/B082YDGP7H?tag=amz-selectividad-21&linkCode=ogi&th=1&psc=1" target="_blank">Casio FX-82ES PLUS-2</a>
 
 ![calduladora Casio FX-82ES PLUS-2](/images/blog/Casio-FX-82ES-PLUS-2.webp)
 
-[Casio FX-82MS-2-S](https://www.amazon.es/dp/B07KJZM3QP?tag=amz-selectividad-21&linkCode=ogi&th=1&psc=1)
+<a href="https://www.amazon.es/dp/B07KJZM3QP?tag=amz-selectividad-21&linkCode=ogi&th=1&psc=1" target="_blank">Casio FX-82MS-2-S</a>
 
 ![calduladora Casio FX-82MS-2-S](/images/blog/Casio-FX-82MS-2-S.webp)
 
-[Casio FX-83GTX](https://www.amazon.es/dp/B07L61MWJ9?tag=azmcalcme-21&linkCode=ogi&th=1&psc=1)
+<a href="https://www.amazon.es/dp/B07L61MWJ9?tag=azmcalcme-21&linkCode=ogi&th=1&psc=1" target="_blank">Casio FX-83GTX</a>
 
 ![calduladora Casio FX-83GTX](/images/blog/Casio-FX-83GTX.webp)
 

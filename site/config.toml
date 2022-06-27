@@ -14,6 +14,13 @@ disableLanguages = [] # desable language from here
 # disableKinds = "RSS"
 enableRobotsTXT = true
 
+# Permite agregar contenido html en los articulos, con esto se pueden insertar links con el atributo
+# target="_blank"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 ############################# Plugins ##############################
 
 # CSS Plugins

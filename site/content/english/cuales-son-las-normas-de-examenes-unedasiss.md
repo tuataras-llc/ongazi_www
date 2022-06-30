@@ -11,7 +11,7 @@ tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universid
 type: post1
 ---
 
-Cuando llegue el momento de [**examinarte para las PCE o la EBAU en la UNED.**]({{< ref "descubre-cuantas-materias-pce-uned-preparar-para-ingresar-a-la-universidad-espanola.md" >}} "Descubre cuántas materias PCE UNED preparar para ingresar a la universidad española") debes tener presente que existen normas de exámenes UNEDasiss.
+Cuando llegue el momento de <a href="https://ongazi.com/descubre-cuantas-materias-pce-uned-preparar-para-ingresar-a-la-universidad-espanola/" target="_blank">**examinarte para las PCE o la EBAU en la UNED**</a> debes tener presente que existen normas de exámenes UNEDasiss.
 
 Infringir en este reglamento te traerá consecuencias serias que comprometerán continuar con tu proceso de examinarte.
 
@@ -137,6 +137,6 @@ En el momento de entregar el examen al Tribunal, cada estudiante deberá identif
 
 El Tribunal procederá a escanear todos y cada uno de los exámenes para el correcto funcionamiento del retorno telemático.
 
-Fuente: UNED (https://www.uned.es/universidad/inicio.html)
+Fuente: <a href="https://www.uned.es/universidad/inicio.html" target="_blank">UNED</a>
 
 ---

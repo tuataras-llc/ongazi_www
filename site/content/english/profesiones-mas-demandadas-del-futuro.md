@@ -15,7 +15,7 @@ type: post1
 
 Decidir qué estudiar es una elección que marcará tu vida. Por eso, debes tomar la delantera y ser astuto antes de tomar esta gran decisión.
 
-Pero, si ya sabes con seguridad la profesión que quieres ejercer y además, quieres estudiar en España, conoce la lista de [**requisitos para ingresar a la universidad española 2021.**]({{< ref "requisitos-para-ingresar-a-la-universidad-espanola-2021.md" >}} "Requisitos para ingresar a la Universidad Española 2021")
+Pero, si ya sabes con seguridad la profesión que quieres ejercer y además, quieres estudiar en España, conoce la lista de <a href="https://ongazi.com/requisitos-para-ingresar-a-la-universidad-espanola-2021/" target="_blank">**requisitos para ingresar a la Universidad Española 2021.**</a>
 
 ---
 
@@ -49,7 +49,7 @@ Hoy en día, casi todos los campos laborales y de la vida diaria se manejan fác
 
 Entonces, entre las profesiones más demandadas del futuro, un desarrollador de aplicaciones puede diseñar apps para la nube, Internet o dispositivos móviles.
 
-```Según estudios, aparentemente existe un déficit de talento que se agudizará hasta 2030.```
+*Según estudios, aparentemente existe un déficit de talento que se agudizará hasta 2030.*
 
 Incluso, hay escasez de informáticos para el mantenimiento de sistemas, porque el cambio tecnológico va dejando a muchos profesionales desactualizados.
 
@@ -89,7 +89,7 @@ Todas las empresas necesitan Community Managers y Gestores del Comercio Electró
 
 - • Relaciones Públicas
 
-```Dato curioso: La Universidad Autónoma de Madrid ofrece una diplomatura de ‘Influencer’ en Moda y Belleza.```
+**Dato curioso:** La Universidad Autónoma de Madrid ofrece una diplomatura de ‘Influencer’ en Moda y Belleza.
 
 ##### **Alternativa FP (Formación Profesional)**
 
@@ -251,7 +251,7 @@ Se necesitan suficientes profesionales activos para una demanda en crecimiento p
 
  • Ingeniería Industrial
 
-```Tip: antes de incorpórate al mercado, sería bueno especializarse en las ramas más demandadas, por ejemplo, un **Máster** en:```
+**Tip: antes de incorpórate al mercado, sería bueno especializarse en las ramas más demandadas, por ejemplo, un **Máster** en:**
 
  • Robótica
 

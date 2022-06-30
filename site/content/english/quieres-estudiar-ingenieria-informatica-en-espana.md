@@ -57,7 +57,7 @@ Al empezar a estudiar Ingeniería informática, tendrás que elegir una de sus t
 *  • Sistemas de Información
 *  • Tecnologías de la Información
 
-`Estudiar Ingeniería informática en teoría tiene una duración total de 4 años.`
+*Estudiar Ingeniería informática en teoría tiene una duración total de 4 años.*
 
 ### ¿Qué hacen los ingenieros informáticos?
 
@@ -77,6 +77,6 @@ Las áreas de especialización adicionales incluyen robótica, realidad virtual,
 
 Ponte en contacto con nosotros y descubre nuestra batería de rutas de aprendizaje, y materias para estudiar Ingeniería Informática en España.
 
-Contáctanos vía **WhatsApp** o ingresa en **https://ongazi.com**
+Contáctanos vía **WhatsApp** o ingresa en <a href="https://ongazi.com" target="_blank">**ongazi.com**</a>
 
 ---

@@ -13,7 +13,7 @@ type: post1
 
 En este post te vamos a dejar la información que necesitas conocer respecto a la selectividad EBAU para bachilleres extranjeros.
 
-A pesar de que ya te contamos en nuestro  [**post anterior**]({{< ref "diferencias-entre-pce-y-ebau.md" >}} "Diferencias entre PCE y EBAU"), que la EBAU es la prueba que deben presentar los bachilleres españoles para ingresar a las universidades en su país, algunas universidades solicitan a los bachilleres extranjeros que presenten esta prueba, como requerimiento adicional de ingreso.
+A pesar de que ya te contamos en nuestro <a href="https://ongazi.com/diferencias-entre-pce-y-ebau/" target="_blank">**post anterior**</a>, que la EBAU es la prueba que deben presentar los bachilleres españoles para ingresar a las universidades en su país, algunas universidades solicitan a los bachilleres extranjeros que presenten esta prueba, como requerimiento adicional de ingreso.
 
 Es por eso, que nos parece importante que conozcas cómo se distribuyen las asignaturas PCE y cómo se dividen entre las diferentes troncales y así te vayas familiarizando con esta informacion.
 
@@ -60,7 +60,7 @@ Asimismo, los bachilleres de sistemas educativos distintos al español que neces
 
 Si tienes inquietudes para empezar tus estudios, el equipo de Ongazi está activo para ayudarte en lo que necesites!
 
-Comunícate con nosotros a través de **https://ongazi.com** o vía **Whatsapp**
+Comunícate con nosotros a través de <a href="https://ongazi.com" target="_blank">**ongazi.com**</a> o vía **Whatsapp**
 
 ###### “Aprende de una manera genial y diferente, donde el saber no conoce fronteras”
 

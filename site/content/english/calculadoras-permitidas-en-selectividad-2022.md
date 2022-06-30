@@ -99,4 +99,6 @@ Son calculadoras intuitivas, sencillas y muy eficaces para los alumnos, que les 
 
 Por otro lado, en este cuadro te dejamos una lista más amplia de calculadoras científicas que cumplen con todas las condiciones que las comisiones interuniversitarias en España imponen para presentar las pruebas de acceso a la universidad EBAU-PCE.
 
+![Lista de calculadoras](/images/blog/lista-de-calculadoras.webp)
+
 ---

@@ -20,7 +20,7 @@ type: "post1"
 
 ¿Por qué los estudiantes internacionales eligen estudiar en **universidades en España en lugar de las universidades en Estados Unidos?**
 
-En 2018, alrededor de 110.000 estudiantes acudieron a España, para emprender una experiencia de vida académica diferente (según un estudio hecho por www.topuniversities.com).
+En 2018, alrededor de 110.000 estudiantes acudieron a España, para emprender una experiencia de vida académica diferente (según un estudio hecho por <a href="https://www.topuniversities.com/" target="_blank">topuniversities.com</a>).
 
 Esta cifra de estudiantes internacionales, que según la investigación va en aumento, nos deja la curiosidad de investigar **¿por qué España es un destino de estudio tan atractivo?**
 

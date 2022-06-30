@@ -17,7 +17,7 @@ En este post te informamos acerca de los plazos y fechas UNEDasiss importantes y
 
 Se abre plazo el 3 de febrero y se cierra el 1 de diciembre de cada año. Esta solicitud la haces vía online.
 
-Sin embargo, toma en cuenta los plazos para solicitar examinarte de las [**Pruebas de Competencias Específicas (PCE)**]({{< ref "pruebas-de-competencias-especificas-pce-aprende-todo-lo-importante-acerca-de-ellas.md" >}} "Las PCE son las Pruebas de Competencias Específicas.") y los plazos de admisión a universidades españolas en la que quieres estudiar.
+Sin embargo, toma en cuenta los plazos para solicitar examinarte de las <a href="https://ongazi.com/pruebas-de-competencias-especificas-pce-aprende-todo-lo-importante-acerca-de-ellas/" target="_blank">**Pruebas de Competencias Específicas (PCE)**</a> y los plazos de admisión a universidades españolas en la que quieres estudiar.
 
 Para poder tramitar tu solicitud a tiempo, te recomendamos que la envíes lo más pronto posible y como mínimo, 6 semanas antes del cierre de inscripción universitaria.
 

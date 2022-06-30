@@ -21,7 +21,7 @@ Acá te dejo unas interesantes razones para que escojas España como tu destino 
 A nivel mundial España se ha posicionado bien en cuanto al sistema educativo universitario. 
 Aspectos como la calidad de la enseñanza, centros de investigación, e infraestructura, el nivel universitario español es muy bien valorado y reconocido internacionalmente.
 
-Asimismo, 13 universidades españolas se encuentran en el [ranking de universidades de Shanghái](http://www.shanghairanking.com/) , el listado más reconocido del mundo. Este ranking identifica las 500 mejores universidades a nivel internacional.
+Asimismo, 13 universidades españolas se encuentran en el <a href="http://www.shanghairanking.com/" target="_blank">ranking de universidades de Shanghái</a>, el listado más reconocido del mundo. Este ranking identifica las 500 mejores universidades a nivel internacional.
 
 Por lo tanto, si te animas a estudiar en una universidad española y te interesa migrar y trabajar en cualquier país, gozarás de reconocimiento internacional y tu grado será homologado.
 

@@ -37,8 +37,7 @@ Este servicio de UNEDasiss, va dirigido a los estudiantes:
 
 * • extranjeros (países con convenios para la homologación al bachiller español).
 
-
-[**Aquí te decimos cómo homologar el título de bachillerato extranjero.**]({{< ref "como-homologar-el-titulo-de-bachillerato-extranjero.md" >}} "Cómo homologar el título de bachillerato extranjero")
+<a href="https://ongazi.com/como-homologar-el-titulo-de-bachillerato-extranjero/" target="_blank">**Aquí te decimos cómo homologar el título de bachillerato extranjero.**</a>
 
 ---
 
@@ -51,7 +50,7 @@ Por medio de UNEDasiss, los bachilleres extranjeros pueden obtener una acreditac
 
 Esta acreditación es un diploma digital, con el que podrán solicitar y participar en los procesos de admisión a estudios de grado en universidades españolas.
 
-La acreditación se obtiene a través de la misma plataforma digital **UNEDasiss** (https://unedasiss.uned.es/home).
+La acreditación se obtiene a través de la misma plataforma digital <a href="https://unedasiss.uned.es/home" target="_blank">**UNEDasiss**</a>
 
 Esta credencial consiste en la valoración de expedientes académicos, obtenidos en sistemas educativos internacionales de una manera homogénea y regulada.
 
@@ -67,6 +66,6 @@ Si tienes dudas, el equipo de Ongazi puede ayudarte y darte la información acer
 
 * ##### ¡Ponte en contacto con nosotros! Descubre más acerca de los pasos a seguir para la inscripción en nuestra batería de cursos y materias para estudiar en España. 
 
-Contáctanos vía WhatsApp o ingresa en https://ongazi.com
+Contáctanos vía WhatsApp o ingresa en <a href="https://ongazi.com" target="_blank">ongazi.com</a>
 
 ---

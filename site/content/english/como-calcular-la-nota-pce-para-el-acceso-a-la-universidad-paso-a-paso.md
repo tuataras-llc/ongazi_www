@@ -127,7 +127,7 @@ Aplicando la fórmula:
 
 Te explicamos anteriormente que, para calcular la nota de acceso a la Universidad cuando te exigen la PCE la Acreditación es sobre 10 puntos.
 
-Pero, las **[notas de corte](https://ongazi.com/nota-de-corte-que-es-y-para-que-me-sirve/)** de los Grados son sobre 14 puntos.
+Pero, las <a href="https://ongazi.com/nota-de-corte-que-es-y-para-que-me-sirve/" target="_blank">notas de corte</a> de los Grados son sobre 14 puntos.
 
 Entonces, para calcular estos 4 puntos que faltan, la universidad de destino elige las 2 asignaturas correspondientes a las troncales de opción que más ponderan, en relación a la rama a la que pertenece el Grado. 
 

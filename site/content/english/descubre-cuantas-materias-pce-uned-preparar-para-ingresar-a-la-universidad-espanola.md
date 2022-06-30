@@ -13,7 +13,7 @@ type: post1
 
 Son muchos los estudiantes extranjeros que nos hacen esta pregunta en Ongazi ¿Cuántas **materias PCE UNED** tengo que preparar para ingresar a la universidad española?
 
-También, nos preguntan acerca de [**cuáles son las asignaturas PCE UNED**]({{< ref "descubre-cuantas-materias-pce-uned-preparar-para-ingresar-a-la-universidad-espanola.md" >}} "Descubre cuántas materias PCE UNED preparar para ingresar a la universidad española") que deben escoger dependiendo de la carrera universitaria que eligieron estudiar.
+También, nos preguntan acerca de <a href="https://ongazi.com/materias-que-tengo-que-presentar-para-las-pce-uned/" target="_blank">**cuáles son las asignaturas PCE UNED**</a> que deben escoger dependiendo de la carrera universitaria que eligieron estudiar.
 
 En Ongazi te podemos dar toda la orientación académica y las mejores recomendaciones que más se ajustan al perfil de la carrera que deseas estudiar, para que puedas alcanzar tu objetivo de ingresar a la universidad en España.
 
@@ -86,7 +86,7 @@ Pero, no te preocupes Ongazi tiene excelentes asesores. Nuestro equipo está pre
 
 Estamos para orientarte en la ruta de aprendizaje que mejor se adapte a tus necesidades.
 
-¡Confía en **https://ongazi.com!**
+¡Confía en <a href="https://ongazi.com" target="_blank">**ongazi.com**</a>!
 
 Para comunicarte con nosotros y poder conocer tus inquietudes, escríbenos al **WhatsApp** y te atenderemos con mucho gusto.
 

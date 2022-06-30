@@ -11,7 +11,7 @@ tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universid
 type: post1
 ---
 
-Si estás decidido a realizar tus estudios universitarios en una universidad española, entonces este post te ayudará a agilizar ese proceso. Uno de los pasos básicos para que [ingreses en una universidad en España]({{< ref "10-pasos-ingresar-a-una-universidad-espanola.md" >}} "10 pasos para ingresar a una universidad española") es **homologar el título de bachillerato.**
+Si estás decidido a realizar tus estudios universitarios en una universidad española, entonces este post te ayudará a agilizar ese proceso. Uno de los pasos básicos para que <a href="https://ongazi.com/10-pasos-ingresar-a-una-universidad-espanola/" target="_blank">ingreses en una universidad en España</a> es **homologar el título de bachillerato.**
 
 La **homologación del bachillerato extranjero** es el trámite a través del cual el Ministerio de Educación declara, que los estudios cursados por un alumno en un país extranjero, son equivalentes al nivel de bachillerato en el sistema educativo español.
 
@@ -75,7 +75,7 @@ Esta solicitud, aunque la puedes presentar por Internet, te recomiendo que la ha
 
 -   · Original y fotocopia de las **notas de bachillerato apostilladas**. (Si el documento está en otro idioma, debes presentar la traducción).
 
--   · Original y fotocopia del **título de bachillerato apostillado**. (Si el documento está en otro idioma, debes presentar la traducción. Para este trámite de traducciones te recomendamos con los ojos cerrados al equipo de <http://www.rev.com> expertos y responsables en servicios de traducciones en líneas acreditadas en todos los consulados, te dan atención 24/7 y son rápidos en la entrega de los documentos).
+-   · Original y fotocopia del **título de bachillerato apostillado**. (Si el documento está en otro idioma, debes presentar la traducción. Para este trámite de traducciones te recomendamos con los ojos cerrados al equipo de <a href="https://www.rev.com/" target="_blank">rev.com</a>  expertos y responsables en servicios de traducciones en líneas acreditadas en todos los consulados, te dan atención 24/7 y son rápidos en la entrega de los documentos).
 
 Al finalizar todo este trámite para homologar el bachillerato extranjero, te darán un **volante o comprobante**.
 

@@ -11,7 +11,7 @@ tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universid
 type: post1
 ---
 
-Uno de los requerimientos que tienes que cumplir como extranjero si planeas estudiar la universidad en España, es presentar las **PCE (Pruebas de Competencias Específicas)** y nosotros te vamos contar todo lo que necesitas saber, acerca de estos exámenes convocados por la **UNED (Universidad Nacional de Educación a Distancia)** <https://www.uned.es>.
+Uno de los requerimientos que tienes que cumplir como extranjero si planeas estudiar la universidad en España, es presentar las **PCE (Pruebas de Competencias Específicas)** y nosotros te vamos contar todo lo que necesitas saber, acerca de estos exámenes convocados por la <a href="https://www.uned.es/universidad/inicio.html" target="_blank">**UNED (Universidad Nacional de Educación a Distancia)**</a>.
 
 Actualmente, en España existen dos tipos de acceso a las universidades:
 
@@ -45,7 +45,7 @@ a) Estudiantes de la **Unión Europea o de países con acuerdo internacional**, 
 
 b) Estudiantes **internacionales extracomunitarios**, cuyos países no hayan suscrito acuerdo internacional de reciprocidad con España, siempre y cuando dispongan de una de las siguientes titulaciones:
 
--   • [Título de bachillerato homologado]({{< ref "como-homologar-el-titulo-de-bachillerato-extranjero.md" >}} "Título de bachillerato homologado") o equivalentes al Bachillerato español que se hayan cursado fuera de la Unión Europea.
+-   • <a href="https://ongazi.com/como-homologar-el-titulo-de-bachillerato-extranjero/" target="_blank">Título de bachillerato homologado</a> o equivalentes al Bachillerato español que se hayan cursado fuera de la Unión Europea.
 
 -   • Estudios equivalentes al Bachillerato español homologado cursados en un país de la UE, pero que no proporciona acceso a la universidad en el país de origen.
 
@@ -135,99 +135,99 @@ A continuación, te dejamos las diferentes ciudades dentro de España y otras ci
 
 #### Centros examen PCE UNED España
 
-• ALBACETE
-• ALCIRA
-• ALGECIRAS
-• ALMERÍA
-• ÁVILA
-• BARBASTRO
-• BARCELONA
-• BAZA
-• BERGARA
-• BURGOS
-• CÁDIZ
-• CALATAYUD
-• CANTABRIA
-• CARTAGENA
-• CASTELLÓN (VILLAREAL)
-• CERVERA
-• CEUTA
-• CÓRDOBA
-• CUENCA
-• DENIA
-• EL HIERRO
-• ELCHE
-• FUERTEVENTURA
-• GERONA
-• GIJÓN
-• GUADALAJARA
-• HUELVA
-• IBIZA
-• LA CORUÑA
-• LA GOMERA
-• LA PALMA
-• LA RIOJA
-• LANZAROTE
-• LAS PALMAS DE GRAN CANARIA
-• LUGO
-• MADRID
-• MÁLAGA
-• MARBELLA
-• MELILLA
-• MENORCA 
-• MÉRIDA
-• MOTRIL
-• ORENSE
-• PALENCIA
-• PALMA DE MALLORCA
-• PAMPLONA
-• PLASENCIA
-• PONFERRADA
-• PONTEVEDRA
-• SEGOVIA
-• SEO DE URGEL
-• SEVILLA
-• SORIA
-• TALAVERA DE LA REINA
-• TENERIFE
-• TERUEL
-• TORTOSA
-• TUDELA
-• ÚBEDA
-• VALDEPEÑAS
-• VITORIA
-• VIZCAYA
-• ZAMORA
+- • ALBACETE
+- • ALCIRA
+- • ALGECIRAS
+- • ALMERÍA
+- • ÁVILA
+- • BARBASTRO
+- • BARCELONA
+- • BAZA
+- • BERGARA
+- • BURGOS
+- • CÁDIZ
+- • CALATAYUD
+- • CANTABRIA
+- • CARTAGENA
+- • CASTELLÓN (VILLAREAL)
+- • CERVERA
+- • CEUTA
+- • CÓRDOBA
+- • CUENCA
+- • DENIA
+- • EL HIERRO
+- • ELCHE
+- • FUERTEVENTURA
+- • GERONA
+- • GIJÓN
+- • GUADALAJARA
+- • HUELVA
+- • IBIZA
+- • LA CORUÑA
+- • LA GOMERA
+- • LA PALMA
+- • LA RIOJA
+- • LANZAROTE
+- • LAS PALMAS DE GRAN CANARIA
+- • LUGO
+- • MADRID
+- • MÁLAGA
+- • MARBELLA
+- • MELILLA
+- • MENORCA 
+- • MÉRIDA
+- • MOTRIL
+- • ORENSE
+- • PALENCIA
+- • PALMA DE MALLORCA
+- • PAMPLONA
+- • PLASENCIA
+- • PONFERRADA
+- • PONTEVEDRA
+- • SEGOVIA
+- • SEO DE URGEL
+- • SEVILLA
+- • SORIA
+- • TALAVERA DE LA REINA
+- • TENERIFE
+- • TERUEL
+- • TORTOSA
+- • TUDELA
+- • ÚBEDA
+- • VALDEPEÑAS
+- • VITORIA
+- • VIZCAYA
+- • ZAMORA
 
 ### Centros examen PCE UNED extranjero
 
-• BATA
-• BERLÍN
-• BERNA
-• BOGOTÁ
-• BRUSELAS
-• BUENOS AIRES
-• CARACAS
-• FRANKFURT
-• LIMA
-• LISBOA
-• LONDRES
-• MALABO
-• MÉXICO (D.F.)
-• MOSCÚ
-• MUNICH
-• NUEVA YORK
-• PARIS
-• QUITO
-• RABAT
-• ROMA
-• SAN JOSÉ-COSTA RICA
-• SANTIAGO DE CHILE
-• SANTO DOMINGO
-• SAO PAULO
-• SHANGHAI
-• TEL AVIV
-• TRINIDAD Y TOBAGO
+- • BATA
+- • BERLÍN
+- • BERNA
+- • BOGOTÁ
+- • BRUSELAS
+- • BUENOS AIRES
+- • CARACAS
+- • FRANKFURT
+- • LIMA
+- • LISBOA
+- • LONDRES
+- • MALABO
+- • MÉXICO (D.F.)
+- • MOSCÚ
+- • MUNICH
+- • NUEVA YORK
+- • PARIS
+- • QUITO
+- • RABAT
+- • ROMA
+- • SAN JOSÉ-COSTA RICA
+- • SANTIAGO DE CHILE
+- • SANTO DOMINGO
+- • SAO PAULO
+- • SHANGHAI
+- • TEL AVIV
+- • TRINIDAD Y TOBAGO
 
 * * *
 

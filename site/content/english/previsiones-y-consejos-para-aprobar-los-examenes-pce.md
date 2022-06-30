@@ -13,7 +13,7 @@ type: post1
 
 Este post te explicará las previsiones y algunos buenos consejos que, si los aplicas, las posibilidades de aprobar los exámenes PCE son altas.
 
-Para recordarte, Las Pruebas de Competencias Específicas son evaluaciones que ofrece UNEDasiss de determinadas asignaturas, que los estudiantes deben realizar para [**ingresar a una universidad en España**]({{< ref "10-pasos-ingresar-a-una-universidad-espanola.md" >}} "10 pasos para ingresar a una universidad española"), o **mejorar su calificación de admisión**. Son el equivalente a los exámenes de EBAU (Evaluación de Acceso a la Universidad) que aplica a los bachilleres españoles.
+Para recordarte, Las Pruebas de Competencias Específicas son evaluaciones que ofrece UNEDasiss de determinadas asignaturas, que los estudiantes deben realizar para <a href="https://ongazi.com/10-pasos-ingresar-a-una-universidad-espanola/" target="_blank">**ingresar a una universidad en España**</a>, o **mejorar su calificación de admisión**. Son el equivalente a los exámenes de EBAU (Evaluación de Acceso a la Universidad) que aplica a los bachilleres españoles.
 
 Pero, para aprobar estos exámenes, no solo basta con aplicar estos consejos que te vamos a dar. También, debes tener un tiempo de preparación adecuado para repasar muchos de los contenidos que has venido estudiando.
 

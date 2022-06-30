@@ -15,7 +15,7 @@ Todas las personas que quieran hacer estudios en España, deben solicitar un vi
 
 Técnicamente, los antecedentes penales son la constancia temporal en un registro oficial de las sanciones impuestas a una persona en virtud de sentencia firme, emitida por un juzgado o tribunal de ámbito penal.
 
-`Este documento es conocido como certificado judicial, certificado policial, certificado de antecedentes penales, carta de buena conducta o récord policivo.`
+*Este documento es conocido como certificado judicial, certificado policial, certificado de antecedentes penales, carta de buena conducta o récord policivo.*
 
 ### ¿Por qué te piden el certificado de antecedente penales para estudiar en España?
 
@@ -23,7 +23,7 @@ La razón por la que España exige el certificado de antecedentes penales, se 
 
 Por lo tanto, se debe demostrar que la persona que está solicitando la visa de estudiante, no presenta en su contra ningún tipo de antecedente penal, ni ninguna condena por delitos existentes en el ordenamiento español.
 
-Para que este documento tenga validez dentro del territorio español, debe estar debidamente legalizado con la [**Apostilla de la Haya.**]({{< ref "como-homologar-el-titulo-de-bachillerato-extranjero" >}} "Cómo homologar el título de bachillerato extranjero")
+Para que este documento tenga validez dentro del territorio español, debe estar debidamente legalizado con la <a href="https://ongazi.com/como-homologar-el-titulo-de-bachillerato-extranjero/" target="_blank">**Apostilla de la Haya.**</a>
 
 ### ¿Dónde tramitar el certificado de antecedentes penales?
 
@@ -34,7 +34,7 @@ La autoridad competente en tu país de origen, o en el país o países donde 
 
 Generalmente se tramita a través del Ministerio de Justicia.
 
-`En caso de que una persona, presente antecedente policiales, se les negará el visado de estudiantes.`
+*En caso de que una persona, presente antecedente policiales, se les negará el visado de estudiantes.*
 
 ### Duración de su validez
 
@@ -46,6 +46,6 @@ La vigencia de este documento debidamente apostillado, es exactamente de 3 meses
 
 Si tienes alguna inquietud, nuestros asesores pueden ponerse en contacto contigo para orientarte al respecto.
 
-Contáctanos en https://ongazi.com o directamente al WhatsApp.
+Contáctanos en <a href="https://ongazi.com/contact/" target="_blank">**ongazi.com**</a> o directamente al WhatsApp.
 
 ---

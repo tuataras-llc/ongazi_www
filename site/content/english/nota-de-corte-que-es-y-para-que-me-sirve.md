@@ -75,7 +75,7 @@ Ordenamos de mayor a menor sus notas y luego hacemos un corte en el candidato qu
 
 **4.- Hay carreras que no poseen Nota de Corte.** Esto significa que tienen establecida la Nota con un valor de 5. Es decir, estas carreras ofertan más plazas de las demandadas y no llenan sus cupos. Esto es especialmente interesante si te has presentado en la convocatoria extraordinaria y no hay plazas en la mayoría de los grados, dado que se han llenado con la convocatoria ordinaria.
 
-Si quieres ver las Notas de Corte 2022 de la última convocatoria de los estudios que te interesan, puedes buscar en este enlace. https://notasdecorte.es/
+Si quieres ver las Notas de Corte 2022 de la última convocatoria de los estudios que te interesan, puedes buscar en este enlace: <a href="https://notasdecorte.es/" target="_blank">notasdecorte.es</a>
 
 ---
 
@@ -95,7 +95,7 @@ Sabemos que el ingreso a las universidades españolas puede parecer un poco conf
 
 Son muchos los requisitos y detalles que debes tomar en cuenta para lograr con éxito tu ingreso a la universidad en España.
 
-**¿Quieres estudiar en España?** [**Contactanos**]({{< ref "https://ongazi.com/contact/" >}} "Contáctanos"), Ongazi es tu plataforma de ingreso a la universidad española.
+**¿Quieres estudiar en España?** <a href="https://ongazi.com/contact/" target="_blank">**Contáctanos**</a>, Ongazi es tu plataforma de ingreso a la universidad española.
 
 Estamos listos para prepararte y apruebes con éxito las evaluaciones de acceso a la universidad española.
 

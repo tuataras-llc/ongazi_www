@@ -55,7 +55,7 @@ En este paso debes considerar varias puntos importantes que te ayudarán al éxi
 
 Para lograr tu objetivo tienes que prepararte y organizarte con un buen plan de estudio. Asimilar y comprender el temario requiere tiempo y dedicación.
 
-Por esa razón, te recomendamos que te prepares unos cuantos meses previos a la fecha de presentación del examen. En <https://ongazi.com> tenemos cursos orientados especialmente para esta preparación. Confía en nosotros.
+Por esa razón, te recomendamos que te prepares unos cuantos meses previos a la fecha de presentación del examen. En <a href="https://ongazi.com" target="_blank">ongazi.com</a> tenemos cursos orientados especialmente para esta preparación. Confía en nosotros.
 
 ### Listo para ingresar a una universidad española
 

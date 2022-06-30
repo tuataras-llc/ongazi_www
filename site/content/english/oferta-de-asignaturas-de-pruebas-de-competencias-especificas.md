@@ -13,11 +13,11 @@ type: post1
 
 ¿Conoces la oferta de asignaturas de Pruebas de Competencias Específicas que puedes elegir de la UNEDasiss, para preparar tu acceso a la universidad en España?
 
-Para que tengas la oportunidad de irte a estudiar a España, debes conocer y preparar bien todo lo que debes hacer. Y en https://ongazi.com estamos listos para asesorarte y apoyarte en todo este proceso.
+Para que tengas la oportunidad de irte a estudiar a España, debes conocer y preparar bien todo lo que debes hacer. Y en <a href="https://ongazi.com" target="_blank">Ongazi.com</a> estamos listos para asesorarte y apoyarte en todo este proceso.
 
 Sabemos que puede ser una larga lista de requerimientos que debes organizar y cumplir, y no queremos que te pierdas de nada en el camino.
 
-Un punto fundamental que hay que realizar es, presentar las pruebas de acceso a la universidad. En algunos casos [**PCE**]({{< ref "diferencias-entre-pce-y-ebau.md" >}} "Diferencias entre PCE y EBAU"), en otros, estilo [**EBAU**]({{< ref "diferencias-entre-pce-y-ebau.md" >}} "Diferencias entre PCE y EBAU").Pero, para examinarte acertadamente, te recomendamos que conozcas bien oferta de [**asignaturas de Pruebas de Competencias**]({{< ref "pruebas-de-competencias-especificas-pce-aprende-todo-lo-importante-acerca-de-ellas.md" >}} "Pruebas de Competencias Específicas (PCE), aprende todo lo importante acerca de ellas")Específicas de la UNEDasiss y así puedas planificar tu itinerario.
+Un punto fundamental que hay que realizar es, presentar las pruebas de acceso a la universidad. En algunos casos <a href="https://ongazi.com/diferencias-entre-pce-y-ebau/" target="_blank">**PCE**</a>, en otros, estilo <a href="https://ongazi.com/diferencias-entre-pce-y-ebau/" target="_blank">**EBAU**</a>.Pero, para examinarte acertadamente, te recomendamos que conozcas bien oferta de <a href="https://ongazi.com/pruebas-de-competencias-especificas-pce-aprende-todo-lo-importante-acerca-de-ellas/" target="_blank">**asignaturas de Pruebas de Competencias**</a> Específicas de la UNEDasiss y así puedas planificar tu itinerario.
 
 De esta forma, podrás dar en el clavo con las materias que debes elegir, y que te van a favorecer al grado y universidad que quieres optar.
 
@@ -63,7 +63,7 @@ La sección de desarrollo de los exámenes, debe responderse en español.
 
 Mientras que en la parte tipo test del examen, se encuentran las mismas preguntas en español y en inglés.
 
-`AVISO: Los exámenes a través de la plataforma AvEx pueden no llevar traducción al inglés, debido a que se han autorizado con carácter excepcional y sin tiempo para preparar la versión en inglés.`
+**AVISO: Los exámenes a través de la plataforma AvEx pueden no llevar traducción al inglés, debido a que se han autorizado con carácter excepcional y sin tiempo para preparar la versión en inglés.**
 
 ![](/images/blog/post-14_2.webp)
 

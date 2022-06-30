@@ -13,7 +13,7 @@ type: post1
 
 Es posible que dentro de tantas interrogantes con respecto a los requisitos que necesitas para ingresar a una universidad española, está una pregunta muy importante: **¿Qué materias PCE UNED tengo que estudiar para una determinada carrera?**
 
-Las Pruebas de Competencias Específicas son evaluaciones que ofrece UNEDasiss de determinadas asignaturas, que los estudiantes deben realizar para ingresar a una universidad en España [**ingresar a una universidad en España**]({{< ref "10-pasos-ingresar-a-una-universidad-espanola.md" >}} "10 pasos para ingresar a una universidad española"), o mejorar su calificación de admisión. Son el equivalente a los exámenes de EBAU (Evaluación de Acceso a la Universidad) que aplica a los bachilleres españoles.
+Las Pruebas de Competencias Específicas son evaluaciones que ofrece UNEDasiss de determinadas asignaturas, que los estudiantes deben realizar para ingresar a una universidad en España <a href="https://ongazi.com/10-pasos-ingresar-a-una-universidad-espanola/" target="_blank">**ingresar a una universidad en España**</a>, o mejorar su calificación de admisión. Son el equivalente a los exámenes de EBAU (Evaluación de Acceso a la Universidad) que aplica a los bachilleres españoles.
 
 * * *
 

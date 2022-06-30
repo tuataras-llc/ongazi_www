@@ -11,7 +11,7 @@ tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universid
 type: post1
 ---
 
-`¿Interesado en realizar tus estudios universitarios en España? ¿conoces cuál es la prueba que te corresponde presentar? No te preocupes. En Ongazi te explicamos las diferencias entre PCE y EBAU o EVAU, y así podrás determinar cuál te corresponde preparar.`
+¿Interesado en realizar tus estudios universitarios en España? ¿conoces cuál es la prueba que te corresponde presentar? No te preocupes. En Ongazi te explicamos las diferencias entre PCE y EBAU o EVAU, y así podrás determinar cuál te corresponde preparar.
 
 Es posible que cuando te encuentres con las siglas: PAU, PCE, EBAU, EVAU, te surjan dudas y no sepas específicamente a qué se refieren en cada caso.
 
@@ -23,7 +23,7 @@ La PCE y la EBAU son pruebas de selectividad que deben presentar los bachilleres
 
 #### ¿Qué son las PCE?
 
- [**Las PCE son las Pruebas de Competencias Específicas.**]({{< ref "pruebas-de-competencias-especificas-pce-aprende-todo-lo-importante-acerca-de-ellas.md" >}} "Las PCE son las Pruebas de Competencias Específicas.")
+ <a href="https://ongazi.com/pruebas-de-competencias-especificas-pce-aprende-todo-lo-importante-acerca-de-ellas/" target="_blank">**Las PCE son las Pruebas de Competencias Específicas.**</a>
 
 Son las pruebas de selectividad que deben presentar los bachilleres extranjeros para ingresar a una universidad española.
 

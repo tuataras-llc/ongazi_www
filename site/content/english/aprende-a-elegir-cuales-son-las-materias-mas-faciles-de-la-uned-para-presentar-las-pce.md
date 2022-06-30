@@ -10,9 +10,9 @@ categories: [Publicaciones]
 tags: [Estudiar en España, PCE, Pruebas de Competencias Específicas, Universidad en España, Universidad Española]
 type: post1
 ---
-La información que te ofrecemos en este post te permitirá obtener una mejor visión para que escojas aquellas asignaturas que te podrían dar una mejor oportunidad para [**ingresar a una universidad española**]({{< ref "10-pasos-ingresar-a-una-universidad-espanola.md" >}} "10 pasos para ingresar a una universidad española").
+La información que te ofrecemos en este post te permitirá obtener una mejor visión para que escojas aquellas asignaturas que te podrían dar una mejor oportunidad para <a href="https://ongazi.com/10-pasos-ingresar-a-una-universidad-espanola/" target="_blank">**ingresar a una universidad española**</a>.
 
-Para recordarte, son muchas [**las materias PCE las que oferta la UNED**]({{< ref "materias-que-tengo-que-presentar-para-las-pce-uned.md" >}} "Materias que tengo que presentar para las PCE UNED") para examinarse en la selectividad para bachilleres extranjeros.
+Para recordarte, son muchas <a href="https://ongazi.com/materias-que-tengo-que-presentar-para-las-pce-uned/" target="_blank">**las materias PCE las que oferta la UNED**</a> para examinarse en la selectividad para bachilleres extranjeros.
 
 Dependiendo del itinerario que escojas, algunas de las materias pueden tener un grado de dificultad particular con la que se puede obtener más o menos calificación.
 

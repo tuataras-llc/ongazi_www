@@ -58,7 +58,7 @@ Consúltanos en **academia@ongazi.com** o también, vía **WhatsApp**
 
 #### 7- Hacer la inscripción para PCE
 
-El proceso de inscripción para las Pruebas de Competencias Especificas (PCE) se realiza directamente en la página web de la UNED https://www.uned.es/universidad/inicio.html. A lo largo del año hay dos convocatorias. La convocatoria ordinaria de mayo/junio y la convocatoria extraordinaria de septiembre.
+El proceso de inscripción para las Pruebas de Competencias Especificas (PCE) se realiza directamente en la página web de la <a href="https://www.uned.es/universidad/inicio.html" target="_blank">UNED</a>. A lo largo del año hay dos convocatorias. La convocatoria ordinaria de mayo/junio y la convocatoria extraordinaria de septiembre.
 
 Recomendamos que asistas a la primera convocatoria, ya que lo más probable es que las plazas universitarias se agoten en esta ocasión. Aun así, también puedes presentarte en la convocatoria extraordinaria, de no haber alcanzado el resultado en la primera convocatoria.
 
@@ -66,7 +66,7 @@ Recomendamos que asistas a la primera convocatoria, ya que lo más probable es q
 
 Las Pruebas de Competencia Específica es otro de los requisitos para ingresar a la Universidad española. Las PCE la organiza la UNED mediante su programa UNEDasiss.
 
-Deberás asistir al centro UNED que hayas elegido en cualquier lugar del mundo. Aquí puedes ver los centros de la UNED en el extranjero. (http://portal.uned.es/portal/page?_pageid=93,171802,93_20551294&_dad=portal&_schema=PORTAL)
+Deberás asistir al centro UNED que hayas elegido en cualquier lugar del mundo. <a href="http://portal.uned.es/portal/page?_pageid=93,171802,93_20551294&_dad=portal&_schema=PORTAL" target="_blank">Aquí puedes ver los centros de la UNED en el extranjero</a>.
 
 Los resultados obtenidos en las PCE UNEDasiss tienen validez para todo el territorio español, no solamente para una universidad especifica.
 
@@ -95,6 +95,6 @@ La mayoría de las universidades en España permiten el proceso de inscripción 
 
 Finalmente, para el mes de septiembre/octubre conocerás el emocionante mundo universitario. Estudiar en las universidades de España te dará oportunidades increíbles: nuevos amigos, nuevos conocimientos, nuevas experiencias.
 
-¿Tienes dudas? Contáctanos en www.ongazi.com/contact!
+¿Tienes dudas? Contáctanos en <a href="https://ongazi.com/contact/" target="_blank">ongazi.com</a>!
 
 ---

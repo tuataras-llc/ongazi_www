@@ -21,15 +21,6 @@ fee: "Sin Costo"
 apply_url : "#"
 # event speaker
 speaker:
-  # speaker loop
-  - name : "Andres Villada"
-    image : "images/teachers/Andres-Villada_1.webp"
-    designation : "Profesor Dibujo Técnico"
-    
-  # speaker loop
-  - name : "Antonio Telly"
-    image : "images/teachers/Antonio-Tely_1.webp"
-    designation : "Profesor Francés & Ingles"
 
   # speaker loop
   - name : "Brenda Gómez"

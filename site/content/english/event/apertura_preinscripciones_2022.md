@@ -21,15 +21,6 @@ fee: "Reserva de Cupo: $20"
 apply_url : "https://app.ongazi.com/register"
 # event speaker
 speaker:
-  # speaker loop
-  - name : "Andres Villada"
-    image : "images/teachers/Andres-Villada_1.webp"
-    designation : "Profesor Dibujo Técnico"
-    
-  # speaker loop
-  - name : "Antonio Telly"
-    image : "images/teachers/Antonio-Tely_1.webp"
-    designation : "Profesor Francés & Ingles"
 
   # speaker loop
   - name : "Brenda Gómez"

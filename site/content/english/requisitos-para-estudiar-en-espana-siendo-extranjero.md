@@ -29,7 +29,7 @@ Cabe destacar que, no todas las universidades las exigen como uno de los requisi
 
 Debes contactar con la universidad destino vía online y las autoridades te informan cuáles y cuántas asignaturas necesitas validar.  
 
-Asimismo, te remitirán a la <a href="https://unedasiss.uned.es/simuladorSolicitud" target="_blank">UNEDassis para que acredites tu acceso</a> y presentes una de las pruebas de admisión, ya sea PCE o EBAU.
+Asimismo, te remitirán a la <a href="https://unedasiss.uned.es/simuladorSolicitud" target="_blank">UNEDasiss para que acredites tu acceso</a> y presentes una de las pruebas de admisión, ya sea PCE o EBAU.
 
 ---
 

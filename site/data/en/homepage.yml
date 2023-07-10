@@ -12,7 +12,7 @@ slider:
       button:
         enable : true
         label : "Campus Virtual"
-        link : "https://app.ongazi.com/register"
+        # link : "https://app.ongazi.com/register"
 
     # slider item loop
     # - title : "Especialistas en admisiónes universitarias españolas 🇪🇸"
@@ -98,7 +98,7 @@ cta:
   button:
     enable : true
     label : "Regístrate"
-    link : "https://app.ongazi.com/register"
+    # link : "https://app.ongazi.com/register"
 
 
 ######################## Success story #############################
@@ -126,7 +126,7 @@ cta2:
   button:
     enable : true
     label : "Quiero hablar con un agente"
-    link : "https://wa.me/584142312781"
+   # link : "https://wa.me/584142312781"
 
 ########################### funfacts ############################
 funfacts:
